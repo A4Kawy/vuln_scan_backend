@@ -1,0 +1,141 @@
+Sensitive Data Exposure Scan Results
+=======================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com?pp=12
+-------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | <a href="/Mod_Rewrite_Shop/">Sh
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+

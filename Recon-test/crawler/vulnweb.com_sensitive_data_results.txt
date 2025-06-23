@@ -1,0 +1,2336 @@
+Sensitive Data Exposure Scan Results
+=======================================
+
+URL: http://testaspnet.vulnweb.com/Comments.aspx?id=0
+-----------------------------------------------------
+
+Finding #1:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:59 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:59 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #3:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #4:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #5:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #6:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #7:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #8:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #9:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #10:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #11:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #12:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:59 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #13:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:59 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #14:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:59 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #15:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #16:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #17:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #18:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #19:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #20:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #21:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #22:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #23:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #24:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #25:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #26:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #27:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #28:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #29:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #30:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #31:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #32:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #33:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #34:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #35:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #36:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #37:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #38:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #39:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #40:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #41:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #42:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #43:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #44:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:00 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #45:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #46:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:01 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #47:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #48:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #49:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:02 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #50:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #51:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #52:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #53:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #54:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #55:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #56:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:57:03 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #57:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #58:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #59:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #60:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #61:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #62:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #63:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #64:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #65:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #66:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #67:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #68:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #69:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #70:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #71:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:58 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #72:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #73:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #74:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #75:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:53 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #76:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #77:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #78:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #79:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #80:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:54 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #81:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #82:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #83:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:55 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #84:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #85:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #86:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #87:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:56 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #88:
+  Category: IP Addresses
+  Matched Text: 34.201.223.161
+  Context: ent"><DIV class="CommentAuthor">posted by <strong>**34.201.223.161**</strong>6/23/2025 5:56:57 AM</DIV><DIV class="Com
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #89:
+  Category: Auth Tokens
+  Matched Text: wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFgoCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc
+  Context: dden" name="__VIEWSTATE" id="__VIEWSTATE" value="/**wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFgoCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc**+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjUvM
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #90:
+  Category: Auth Tokens
+  Matched Text: YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjUvMTYvMjAxOSAxMjozMjozMCBQTWQCBQ8WBB8BBT5BY3VuZXRpeCBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgTm93IFdpdGggTmV0d29yayBTZWN1cml0eSBTY2Fucx8ABRJSZWFkTmV3cy5hc3B4P2lkPTBkAgcPFgIfAQVEU2VhbWxlc3MgT3BlblZBUyBpbnRlZ3JhdGlvbiBub3cgYWxzbyBhdmFpbGFibGUgb24gV2luZG93cyBhbmQgTGludXhkAgkPZBYCAgEPZBaQBGYPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: 4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+**YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjUvMTYvMjAxOSAxMjozMjozMCBQTWQCBQ8WBB8BBT5BY3VuZXRpeCBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgTm93IFdpdGggTmV0d29yayBTZWN1cml0eSBTY2Fucx8ABRJSZWFkTmV3cy5hc3B4P2lkPTBkAgcPFgIfAQVEU2VhbWxlc3MgT3BlblZBUyBpbnRlZ3JhdGlvbiBub3cgYWxzbyBhdmFpbGFibGUgb24gV2luZG93cyBhbmQgTGludXhkAgkPZBYCAgEPZBaQBGYPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAIBD2QWAmYPFgIeBWNsYXNzBQdDb21tZW50ZAICD2QWAmYPF
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #91:
+  Category: Auth Tokens
+  Matched Text: ZAIBD2QWAmYPFgIeBWNsYXNzBQdDb21tZW50ZAICD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAIBD2QWAmYPFgIeBWNsYXNzBQdDb21tZW50ZAICD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAIDD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #92:
+  Category: Auth Tokens
+  Matched Text: ZAIDD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCBA9kFgJmDxYCHwMFB0NvbW1lbnRkAgUPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAgYPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAIDD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCBA9kFgJmDxYCHwMFB0NvbW1lbnRkAgUPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAgYPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAIHD2QWAmYPFgIfAwUHQ29tbWVudGQCCA9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #93:
+  Category: Auth Tokens
+  Matched Text: ZAIHD2QWAmYPFgIfAwUHQ29tbWVudGQCCA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCCQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAgoPZBYCZg8WAh8DBQdDb21tZW50ZAILD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAIHD2QWAmYPFgIfAwUHQ29tbWVudGQCCA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCCQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAgoPZBYCZg8WAh8DBQdDb21tZW50ZAILD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAIMD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #94:
+  Category: Auth Tokens
+  Matched Text: ZAIMD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCDQ9kFgJmDxYCHwMFB0NvbW1lbnRkAg4PZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAg8PZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAIMD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCDQ9kFgJmDxYCHwMFB0NvbW1lbnRkAg4PZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAg8PZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAIQD2QWAmYPFgIfAwUHQ29tbWVudGQCEQ9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #95:
+  Category: Auth Tokens
+  Matched Text: ZAIQD2QWAmYPFgIfAwUHQ29tbWVudGQCEQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCEg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAhMPZBYCZg8WAh8DBQdDb21tZW50ZAIUD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAIQD2QWAmYPFgIfAwUHQ29tbWVudGQCEQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCEg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAhMPZBYCZg8WAh8DBQdDb21tZW50ZAIUD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAIVD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #96:
+  Category: Auth Tokens
+  Matched Text: ZAIVD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCFg9kFgJmDxYCHwMFB0NvbW1lbnRkAhcPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAhgPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAIVD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCFg9kFgJmDxYCHwMFB0NvbW1lbnRkAhcPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAhgPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAIZD2QWAmYPFgIfAwUHQ29tbWVudGQCGg9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #97:
+  Category: Auth Tokens
+  Matched Text: ZAIZD2QWAmYPFgIfAwUHQ29tbWVudGQCGg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCGw9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAhwPZBYCZg8WAh8DBQdDb21tZW50ZAIdD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAIZD2QWAmYPFgIfAwUHQ29tbWVudGQCGg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCGw9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAhwPZBYCZg8WAh8DBQdDb21tZW50ZAIdD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAIeD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #98:
+  Category: Auth Tokens
+  Matched Text: ZAIeD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCHw9kFgJmDxYCHwMFB0NvbW1lbnRkAiAPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAiEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAIeD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCHw9kFgJmDxYCHwMFB0NvbW1lbnRkAiAPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAiEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAIiD2QWAmYPFgIfAwUHQ29tbWVudGQCIw9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #99:
+  Category: Auth Tokens
+  Matched Text: ZAIiD2QWAmYPFgIfAwUHQ29tbWVudGQCIw9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCJA9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAiUPZBYCZg8WAh8DBQdDb21tZW50ZAImD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAIiD2QWAmYPFgIfAwUHQ29tbWVudGQCIw9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCJA9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAiUPZBYCZg8WAh8DBQdDb21tZW50ZAImD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAInD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #100:
+  Category: Auth Tokens
+  Matched Text: ZAInD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCKA9kFgJmDxYCHwMFB0NvbW1lbnRkAikPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAioPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAInD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCKA9kFgJmDxYCHwMFB0NvbW1lbnRkAikPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAioPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAIrD2QWAmYPFgIfAwUHQ29tbWVudGQCLA9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #101:
+  Category: Auth Tokens
+  Matched Text: ZAIrD2QWAmYPFgIfAwUHQ29tbWVudGQCLA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCLQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAi4PZBYCZg8WAh8DBQdDb21tZW50ZAIvD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAIrD2QWAmYPFgIfAwUHQ29tbWVudGQCLA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCLQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAi4PZBYCZg8WAh8DBQdDb21tZW50ZAIvD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAIwD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #102:
+  Category: Auth Tokens
+  Matched Text: ZAIwD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCMQ9kFgJmDxYCHwMFB0NvbW1lbnRkAjIPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAjMPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAIwD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCMQ9kFgJmDxYCHwMFB0NvbW1lbnRkAjIPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAjMPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAI0D2QWAmYPFgIfAwUHQ29tbWVudGQCNQ9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #103:
+  Category: Auth Tokens
+  Matched Text: ZAI0D2QWAmYPFgIfAwUHQ29tbWVudGQCNQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCNg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAjcPZBYCZg8WAh8DBQdDb21tZW50ZAI4D2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAI0D2QWAmYPFgIfAwUHQ29tbWVudGQCNQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCNg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAjcPZBYCZg8WAh8DBQdDb21tZW50ZAI4D2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAI5D2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #104:
+  Category: Auth Tokens
+  Matched Text: ZAI5D2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCOg9kFgJmDxYCHwMFB0NvbW1lbnRkAjsPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAjwPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAI5D2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCOg9kFgJmDxYCHwMFB0NvbW1lbnRkAjsPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAjwPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAI9D2QWAmYPFgIfAwUHQ29tbWVudGQCPg9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #105:
+  Category: Auth Tokens
+  Matched Text: ZAI9D2QWAmYPFgIfAwUHQ29tbWVudGQCPg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCPw9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAkAPZBYCZg8WAh8DBQdDb21tZW50ZAJBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAI9D2QWAmYPFgIfAwUHQ29tbWVudGQCPg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCPw9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAkAPZBYCZg8WAh8DBQdDb21tZW50ZAJBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJCD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #106:
+  Category: Auth Tokens
+  Matched Text: ZAJCD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCQw9kFgJmDxYCHwMFB0NvbW1lbnRkAkQPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAkUPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJCD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCQw9kFgJmDxYCHwMFB0NvbW1lbnRkAkQPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAkUPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJGD2QWAmYPFgIfAwUHQ29tbWVudGQCRw9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #107:
+  Category: Auth Tokens
+  Matched Text: ZAJGD2QWAmYPFgIfAwUHQ29tbWVudGQCRw9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCSA9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAkkPZBYCZg8WAh8DBQdDb21tZW50ZAJKD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJGD2QWAmYPFgIfAwUHQ29tbWVudGQCRw9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCSA9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAkkPZBYCZg8WAh8DBQdDb21tZW50ZAJKD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJLD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #108:
+  Category: Auth Tokens
+  Matched Text: ZAJLD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCTA9kFgJmDxYCHwMFB0NvbW1lbnRkAk0PZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAk4PZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJLD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCTA9kFgJmDxYCHwMFB0NvbW1lbnRkAk0PZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAk4PZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJPD2QWAmYPFgIfAwUHQ29tbWVudGQCUA9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #109:
+  Category: Auth Tokens
+  Matched Text: ZAJPD2QWAmYPFgIfAwUHQ29tbWVudGQCUA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCUQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAlIPZBYCZg8WAh8DBQdDb21tZW50ZAJTD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJPD2QWAmYPFgIfAwUHQ29tbWVudGQCUA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCUQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAlIPZBYCZg8WAh8DBQdDb21tZW50ZAJTD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJUD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #110:
+  Category: Auth Tokens
+  Matched Text: ZAJUD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCVQ9kFgJmDxYCHwMFB0NvbW1lbnRkAlYPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAlcPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJUD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCVQ9kFgJmDxYCHwMFB0NvbW1lbnRkAlYPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAlcPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJYD2QWAmYPFgIfAwUHQ29tbWVudGQCWQ9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #111:
+  Category: Auth Tokens
+  Matched Text: ZAJYD2QWAmYPFgIfAwUHQ29tbWVudGQCWQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCWg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAlsPZBYCZg8WAh8DBQdDb21tZW50ZAJcD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJYD2QWAmYPFgIfAwUHQ29tbWVudGQCWQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCWg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAlsPZBYCZg8WAh8DBQdDb21tZW50ZAJcD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJdD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #112:
+  Category: Auth Tokens
+  Matched Text: ZAJdD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCXg9kFgJmDxYCHwMFB0NvbW1lbnRkAl8PZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAmAPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJdD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCXg9kFgJmDxYCHwMFB0NvbW1lbnRkAl8PZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAmAPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJhD2QWAmYPFgIfAwUHQ29tbWVudGQCYg9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #113:
+  Category: Auth Tokens
+  Matched Text: ZAJhD2QWAmYPFgIfAwUHQ29tbWVudGQCYg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCYw9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAmQPZBYCZg8WAh8DBQdDb21tZW50ZAJlD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJhD2QWAmYPFgIfAwUHQ29tbWVudGQCYg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCYw9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAmQPZBYCZg8WAh8DBQdDb21tZW50ZAJlD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJmD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #114:
+  Category: Auth Tokens
+  Matched Text: ZAJmD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCZw9kFgJmDxYCHwMFB0NvbW1lbnRkAmgPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAmkPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJmD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCZw9kFgJmDxYCHwMFB0NvbW1lbnRkAmgPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAmkPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJqD2QWAmYPFgIfAwUHQ29tbWVudGQCaw9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #115:
+  Category: Auth Tokens
+  Matched Text: ZAJqD2QWAmYPFgIfAwUHQ29tbWVudGQCaw9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCbA9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAm0PZBYCZg8WAh8DBQdDb21tZW50ZAJuD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJqD2QWAmYPFgIfAwUHQ29tbWVudGQCaw9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCbA9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAm0PZBYCZg8WAh8DBQdDb21tZW50ZAJuD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJvD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #116:
+  Category: Auth Tokens
+  Matched Text: ZAJvD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCcA9kFgJmDxYCHwMFB0NvbW1lbnRkAnEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAnIPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJvD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCcA9kFgJmDxYCHwMFB0NvbW1lbnRkAnEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAnIPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJzD2QWAmYPFgIfAwUHQ29tbWVudGQCdA9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #117:
+  Category: Auth Tokens
+  Matched Text: ZAJzD2QWAmYPFgIfAwUHQ29tbWVudGQCdA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCdQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAnYPZBYCZg8WAh8DBQdDb21tZW50ZAJ3D2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJzD2QWAmYPFgIfAwUHQ29tbWVudGQCdA9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCdQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAnYPZBYCZg8WAh8DBQdDb21tZW50ZAJ3D2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAJ4D2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #118:
+  Category: Auth Tokens
+  Matched Text: ZAJ4D2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCeQ9kFgJmDxYCHwMFB0NvbW1lbnRkAnoPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAnsPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAJ4D2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCeQ9kFgJmDxYCHwMFB0NvbW1lbnRkAnoPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAnsPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAJ8D2QWAmYPFgIfAwUHQ29tbWVudGQCfQ9kFgJmDxYCHwEFJ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #119:
+  Category: Auth Tokens
+  Matched Text: ZAJ8D2QWAmYPFgIfAwUHQ29tbWVudGQCfQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCfg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAn8PZBYCZg8WAh8DBQdDb21tZW50ZAKAAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCgQEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAJ8D2QWAmYPFgIfAwUHQ29tbWVudGQCfQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCfg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAn8PZBYCZg8WAh8DBQdDb21tZW50ZAKAAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCgQEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKCAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAoMBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #120:
+  Category: Auth Tokens
+  Matched Text: ZAKCAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAoMBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKCAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAoMBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKEAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #121:
+  Category: Auth Tokens
+  Matched Text: ZAKEAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAoUBD2QWAmYPFgIfAwUHQ29tbWVudGQChgEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAocBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCiAEPZBYCZg8WAh8DBQdDb21tZW50ZAKJAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCigEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKEAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAoUBD2QWAmYPFgIfAwUHQ29tbWVudGQChgEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAocBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCiAEPZBYCZg8WAh8DBQdDb21tZW50ZAKJAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCigEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKLAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAowBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #122:
+  Category: Auth Tokens
+  Matched Text: ZAKLAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAowBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKLAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAowBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKNAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #123:
+  Category: Auth Tokens
+  Matched Text: ZAKNAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAo4BD2QWAmYPFgIfAwUHQ29tbWVudGQCjwEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kApABD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCkQEPZBYCZg8WAh8DBQdDb21tZW50ZAKSAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCkwEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKNAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAo4BD2QWAmYPFgIfAwUHQ29tbWVudGQCjwEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kApABD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCkQEPZBYCZg8WAh8DBQdDb21tZW50ZAKSAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCkwEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKUAQ9kFgJmDxYCHwMFB0NvbW1lbnRkApUBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #124:
+  Category: Auth Tokens
+  Matched Text: ZAKUAQ9kFgJmDxYCHwMFB0NvbW1lbnRkApUBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKUAQ9kFgJmDxYCHwMFB0NvbW1lbnRkApUBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKWAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #125:
+  Category: Auth Tokens
+  Matched Text: ZAKWAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kApcBD2QWAmYPFgIfAwUHQ29tbWVudGQCmAEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kApkBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCmgEPZBYCZg8WAh8DBQdDb21tZW50ZAKbAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCnAEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKWAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kApcBD2QWAmYPFgIfAwUHQ29tbWVudGQCmAEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kApkBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCmgEPZBYCZg8WAh8DBQdDb21tZW50ZAKbAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCnAEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKdAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAp4BD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #126:
+  Category: Auth Tokens
+  Matched Text: ZAKdAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAp4BD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKdAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAp4BD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKfAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #127:
+  Category: Auth Tokens
+  Matched Text: ZAKfAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAqABD2QWAmYPFgIfAwUHQ29tbWVudGQCoQEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAqIBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCowEPZBYCZg8WAh8DBQdDb21tZW50ZAKkAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCpQEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKfAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAqABD2QWAmYPFgIfAwUHQ29tbWVudGQCoQEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAqIBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCowEPZBYCZg8WAh8DBQdDb21tZW50ZAKkAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCpQEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKmAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAqcBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #128:
+  Category: Auth Tokens
+  Matched Text: ZAKmAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAqcBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKmAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAqcBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKoAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #129:
+  Category: Auth Tokens
+  Matched Text: ZAKoAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAqkBD2QWAmYPFgIfAwUHQ29tbWVudGQCqgEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAqsBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCrAEPZBYCZg8WAh8DBQdDb21tZW50ZAKtAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCrgEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKoAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAqkBD2QWAmYPFgIfAwUHQ29tbWVudGQCqgEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAqsBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCrAEPZBYCZg8WAh8DBQdDb21tZW50ZAKtAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCrgEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKvAQ9kFgJmDxYCHwMFB0NvbW1lbnRkArABD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #130:
+  Category: Auth Tokens
+  Matched Text: ZAKvAQ9kFgJmDxYCHwMFB0NvbW1lbnRkArABD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKvAQ9kFgJmDxYCHwMFB0NvbW1lbnRkArABD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKxAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #131:
+  Category: Auth Tokens
+  Matched Text: ZAKxAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kArIBD2QWAmYPFgIfAwUHQ29tbWVudGQCswEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kArQBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCtQEPZBYCZg8WAh8DBQdDb21tZW50ZAK2AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCtwEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKxAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kArIBD2QWAmYPFgIfAwUHQ29tbWVudGQCswEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kArQBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCtQEPZBYCZg8WAh8DBQdDb21tZW50ZAK2AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCtwEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAK4AQ9kFgJmDxYCHwMFB0NvbW1lbnRkArkBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #132:
+  Category: Auth Tokens
+  Matched Text: ZAK4AQ9kFgJmDxYCHwMFB0NvbW1lbnRkArkBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAK4AQ9kFgJmDxYCHwMFB0NvbW1lbnRkArkBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAK6AQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #133:
+  Category: Auth Tokens
+  Matched Text: ZAK6AQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kArsBD2QWAmYPFgIfAwUHQ29tbWVudGQCvAEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAr0BD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCvgEPZBYCZg8WAh8DBQdDb21tZW50ZAK
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAK6AQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kArsBD2QWAmYPFgIfAwUHQ29tbWVudGQCvAEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAr0BD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCvgEPZBYCZg8WAh8DBQdDb21tZW50ZAK**/AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVud
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #134:
+  Category: Auth Tokens
+  Matched Text: AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCwAEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: JlZm9yZS5naWYiPmQCvgEPZBYCZg8WAh8DBQdDb21tZW50ZAK/**AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCwAEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZALBAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAsIBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #135:
+  Category: Auth Tokens
+  Matched Text: ZALBAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAsIBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZALBAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAsIBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZALDAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #136:
+  Category: Auth Tokens
+  Matched Text: ZALDAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAsQBD2QWAmYPFgIfAwUHQ29tbWVudGQCxQEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAsYBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCxwEPZBYCZg8WAh8DBQdDb21tZW50ZALIAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCyQEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZALDAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAsQBD2QWAmYPFgIfAwUHQ29tbWVudGQCxQEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAsYBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQCxwEPZBYCZg8WAh8DBQdDb21tZW50ZALIAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQCyQEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZALKAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAssBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #137:
+  Category: Auth Tokens
+  Matched Text: ZALKAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAssBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZALKAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAssBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZALMAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #138:
+  Category: Auth Tokens
+  Matched Text: ZALMAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAs0BD2QWAmYPFgIfAwUHQ29tbWVudGQCzgEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAs8BD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC0AEPZBYCZg8WAh8DBQdDb21tZW50ZALRAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC0gEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZALMAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAs0BD2QWAmYPFgIfAwUHQ29tbWVudGQCzgEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAs8BD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC0AEPZBYCZg8WAh8DBQdDb21tZW50ZALRAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC0gEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZALTAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAtQBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #139:
+  Category: Auth Tokens
+  Matched Text: ZALTAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAtQBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZALTAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAtQBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZALVAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #140:
+  Category: Auth Tokens
+  Matched Text: ZALVAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAtYBD2QWAmYPFgIfAwUHQ29tbWVudGQC1wEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAtgBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC2QEPZBYCZg8WAh8DBQdDb21tZW50ZALaAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC2wEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZALVAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAtYBD2QWAmYPFgIfAwUHQ29tbWVudGQC1wEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAtgBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC2QEPZBYCZg8WAh8DBQdDb21tZW50ZALaAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC2wEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZALcAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAt0BD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #141:
+  Category: Auth Tokens
+  Matched Text: ZALcAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAt0BD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZALcAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAt0BD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZALeAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #142:
+  Category: Auth Tokens
+  Matched Text: ZALeAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAt8BD2QWAmYPFgIfAwUHQ29tbWVudGQC4AEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAuEBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC4gEPZBYCZg8WAh8DBQdDb21tZW50ZALjAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC5AEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZALeAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAt8BD2QWAmYPFgIfAwUHQ29tbWVudGQC4AEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAuEBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC4gEPZBYCZg8WAh8DBQdDb21tZW50ZALjAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC5AEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZALlAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAuYBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #143:
+  Category: Auth Tokens
+  Matched Text: ZALlAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAuYBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZALlAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAuYBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZALnAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #144:
+  Category: Auth Tokens
+  Matched Text: ZALnAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAugBD2QWAmYPFgIfAwUHQ29tbWVudGQC6QEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAuoBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC6wEPZBYCZg8WAh8DBQdDb21tZW50ZALsAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC7QEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZALnAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAugBD2QWAmYPFgIfAwUHQ29tbWVudGQC6QEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAuoBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC6wEPZBYCZg8WAh8DBQdDb21tZW50ZALsAQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC7QEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZALuAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAu8BD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #145:
+  Category: Auth Tokens
+  Matched Text: ZALuAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAu8BD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZALuAQ9kFgJmDxYCHwMFB0NvbW1lbnRkAu8BD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZALwAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #146:
+  Category: Auth Tokens
+  Matched Text: ZALwAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAvEBD2QWAmYPFgIfAwUHQ29tbWVudGQC8gEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAvMBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC9AEPZBYCZg8WAh8DBQdDb21tZW50ZAL1AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC9gEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZALwAQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAvEBD2QWAmYPFgIfAwUHQ29tbWVudGQC8gEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAvMBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC9AEPZBYCZg8WAh8DBQdDb21tZW50ZAL1AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC9gEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAL3AQ9kFgJmDxYCHwMFB0NvbW1lbnRkAvgBD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #147:
+  Category: Auth Tokens
+  Matched Text: ZAL3AQ9kFgJmDxYCHwMFB0NvbW1lbnRkAvgBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAL3AQ9kFgJmDxYCHwMFB0NvbW1lbnRkAvgBD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAL5AQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #148:
+  Category: Auth Tokens
+  Matched Text: ZAL5AQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAvoBD2QWAmYPFgIfAwUHQ29tbWVudGQC
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAL5AQ9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAvoBD2QWAmYPFgIfAwUHQ29tbWVudGQC**+wEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbn
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #149:
+  Category: Auth Tokens
+  Matched Text: wEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAvwBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC
+  Context: iZWZvcmUuZ2lmIj5kAvoBD2QWAmYPFgIfAwUHQ29tbWVudGQC+**wEPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAvwBD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQC**/QEPZBYCZg8WAh8DBQdDb21tZW50ZAL+AQ9kFgJmDxYCHwEFJD
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #150:
+  Category: Auth Tokens
+  Matched Text: AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC
+  Context: JlZm9yZS5naWYiPmQC/QEPZBYCZg8WAh8DBQdDb21tZW50ZAL+**AQ9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC**/wEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbn
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #151:
+  Category: Auth Tokens
+  Matched Text: wEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI
+  Context: JTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmQC/**wEPZBYCZg8WAh8BBSU8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI**+ZAKAAg9kFgJmDxYCHwMFB0NvbW1lbnRkAoECD2QWAmYPFgIfA
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #152:
+  Category: Auth Tokens
+  Matched Text: ZAKAAg9kFgJmDxYCHwMFB0NvbW1lbnRkAoECD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI
+  Context: U8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYmVmb3JlLmdpZiI+**ZAKAAg9kFgJmDxYCHwMFB0NvbW1lbnRkAoECD2QWAmYPFgIfAQUkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI**+ZAKCAg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #153:
+  Category: Auth Tokens
+  Matched Text: ZAKCAg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAoMCD2QWAmYPFgIfAwUHQ29tbWVudGQChAIPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAoUCD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQChgIPZBYCZg8WAh8DBQdDb21tZW50ZAKHAg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmRkGrIGeerjwXYWYoSwGrBP8BKKD0M
+  Context: UkPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWFmdGVyLmdpZiI+**ZAKCAg9kFgJmDxYCHwEFJTxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1iZWZvcmUuZ2lmIj5kAoMCD2QWAmYPFgIfAwUHQ29tbWVudGQChAIPZBYCZg8WAh8BBSQ8SU1HIHNyYz0iaW1hZ2VzL2NvbW1lbnQtYWZ0ZXIuZ2lmIj5kAoUCD2QWAmYPFgIfAQUlPElNRyBzcmM9ImltYWdlcy9jb21tZW50LWJlZm9yZS5naWYiPmQChgIPZBYCZg8WAh8DBQdDb21tZW50ZAKHAg9kFgJmDxYCHwEFJDxJTUcgc3JjPSJpbWFnZXMvY29tbWVudC1hZnRlci5naWYiPmRkGrIGeerjwXYWYoSwGrBP8BKKD0M**=" />
+</div>
+
+<script type="text/javascript">
+
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #154:
+  Category: Auth Tokens
+  Matched Text: AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCnfRoHPIKxXiJu5
+  Context: RutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+**AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCnfRoHPIKxXiJu5**+rTbikHe8J9I8" />
+</div>
+			
+<TABLE id="Table1"
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=0&NewsAd=ads/def.html
+-------------------------------------------------------------------------
+
+Finding #1:
+  Category: Auth Tokens
+  Matched Text: wEPDwUKLTM1MjIzMjU2OQ9kFgICAQ9kFgwCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc
+  Context: dden" name="__VIEWSTATE" id="__VIEWSTATE" value="/**wEPDwUKLTM1MjIzMjU2OQ9kFgICAQ9kFgwCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc**+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjUvM
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Auth Tokens
+  Matched Text: YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjUvMTYvMjAxOSAxMjozMjozMCBQTWQCBQ8WAh8BBT5BY3VuZXRpeCBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgTm93IFdpdGggTmV0d29yayBTZWN1cml0eSBTY2Fuc2QCBw8WAh8BBbMePHA
+  Context: 4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+**YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjUvMTYvMjAxOSAxMjozMjozMCBQTWQCBQ8WAh8BBT5BY3VuZXRpeCBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgTm93IFdpdGggTmV0d29yayBTZWN1cml0eSBTY2Fuc2QCBw8WAh8BBbMePHA**+PHN0cm9uZz5Mb25kb24sIFVLPC9zdHJvbmc+ICZuZGFzaDsgP
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #3:
+  Category: Auth Tokens
+  Matched Text: ICZuZGFzaDsgPHN0cm9uZz5NYXkgMjAxOTwvc3Ryb25nPiAmbmRhc2g7IEFjdW5ldGl4LCB0aGUgcGlvbmVlciBpbiBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHNlY3VyaXR5IHNvZnR3YXJlLCBoYXMgYW5ub3VuY2VkIHRoYXQgYWxsIHZlcnNpb25zIG9mIHRoZSA8YSBocmVmPWh0dHBzOi8vd3d3LmFjdW5ldGl4LmNvbS92dWxuZXJhYmlsaXR5LXNjYW5uZXIvPkFjdW5ldGl4IFZ1bG5lcmFiaWxpdHkgU2Nhbm5lcjwvYT4gbm93IHN1cHBvcnQgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vdnVsbmVyYWJpbGl0eS1zY2FubmVyL25ldHdvcmstc2VjdXJpdHktc2Nhbm5lci8
+  Context: 8WAh8BBbMePHA+PHN0cm9uZz5Mb25kb24sIFVLPC9zdHJvbmc+**ICZuZGFzaDsgPHN0cm9uZz5NYXkgMjAxOTwvc3Ryb25nPiAmbmRhc2g7IEFjdW5ldGl4LCB0aGUgcGlvbmVlciBpbiBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHNlY3VyaXR5IHNvZnR3YXJlLCBoYXMgYW5ub3VuY2VkIHRoYXQgYWxsIHZlcnNpb25zIG9mIHRoZSA8YSBocmVmPWh0dHBzOi8vd3d3LmFjdW5ldGl4LmNvbS92dWxuZXJhYmlsaXR5LXNjYW5uZXIvPkFjdW5ldGl4IFZ1bG5lcmFiaWxpdHkgU2Nhbm5lcjwvYT4gbm93IHN1cHBvcnQgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vdnVsbmVyYWJpbGl0eS1zY2FubmVyL25ldHdvcmstc2VjdXJpdHktc2Nhbm5lci8**+bmV0d29yayBzZWN1cml0eSBzY2FubmluZzwvYT4uIE5ldHdvc
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #4:
+  Category: Auth Tokens
+  Matched Text: bmV0d29yayBzZWN1cml0eSBzY2FubmluZzwvYT4uIE5ldHdvcmsgc2VjdXJpdHkgc2NhbnMgYXJlIHBvc3NpYmxlIHRoYW5rcyB0byB0aGUgc2VhbWxlc3MgaW50ZWdyYXRpb24gb2YgQWN1bmV0aXggd2l0aCB0aGUgcG93ZXJmdWwgT3BlblZBUyBzZWN1cml0eSBzb2x1dGlvbi4gVW50aWwgbm93LCBuZXR3b3JrIHNlY3VyaXR5IHNjYW5uaW5nIGZ1bmN0aW9uYWxpdHkgd2FzIGF2YWlsYWJsZSBvbmx5IGluIEFjdW5ldGl4IE9ubGluZS48L3A
+  Context: l0eS1zY2FubmVyL25ldHdvcmstc2VjdXJpdHktc2Nhbm5lci8+**bmV0d29yayBzZWN1cml0eSBzY2FubmluZzwvYT4uIE5ldHdvcmsgc2VjdXJpdHkgc2NhbnMgYXJlIHBvc3NpYmxlIHRoYW5rcyB0byB0aGUgc2VhbWxlc3MgaW50ZWdyYXRpb24gb2YgQWN1bmV0aXggd2l0aCB0aGUgcG93ZXJmdWwgT3BlblZBUyBzZWN1cml0eSBzb2x1dGlvbi4gVW50aWwgbm93LCBuZXR3b3JrIHNlY3VyaXR5IHNjYW5uaW5nIGZ1bmN0aW9uYWxpdHkgd2FzIGF2YWlsYWJsZSBvbmx5IGluIEFjdW5ldGl4IE9ubGluZS48L3A**+ICAgICA8cD4mbGRxdW87Tm8gbWF0dGVyIHRoZSBzaXplIG9mI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #5:
+  Category: Auth Tokens
+  Matched Text: ICAgICA8cD4mbGRxdW87Tm8gbWF0dGVyIHRoZSBzaXplIG9mIHlvdXIgYnVzaW5lc3MsIHlvdSB1c2UgbXVsdGlwbGUgc2VjdXJpdHkgbWVhc3VyZXMgdG8gYWxsZXZpYXRlIGRpZmZlcmVudCB0eXBlcyBvZiByaXNrcy4gWW91ciBzZWN1cml0eSBzdHJhdGVneSBtdXN0IGFsd2F5cyBpbmNsdWRlIGJvdGggd2ViIHNlY3VyaXR5IHNjYW5zIGFuZCBuZXR3b3JrIHNlY3VyaXR5IHNjYW5zLiBBbmQgaXQgbWFrZXMgaXQgc28gbXVjaCBlYXNpZXIgYW5kIG11Y2ggbW9yZSBlZmZpY2llbnQgaWYgeW91IGNhbiBkbyB0aGUgdHdvIHRvZ2V0aGVyIHVzaW5nIGEgc2luZ2xlIGludGVncmF0ZWQgdG9vbCwmcmRxdW87IHNhaWQgTmljb2xhcyBTY2liZXJyYXMsIENUTy48L3A
+  Context: F2YWlsYWJsZSBvbmx5IGluIEFjdW5ldGl4IE9ubGluZS48L3A+**ICAgICA8cD4mbGRxdW87Tm8gbWF0dGVyIHRoZSBzaXplIG9mIHlvdXIgYnVzaW5lc3MsIHlvdSB1c2UgbXVsdGlwbGUgc2VjdXJpdHkgbWVhc3VyZXMgdG8gYWxsZXZpYXRlIGRpZmZlcmVudCB0eXBlcyBvZiByaXNrcy4gWW91ciBzZWN1cml0eSBzdHJhdGVneSBtdXN0IGFsd2F5cyBpbmNsdWRlIGJvdGggd2ViIHNlY3VyaXR5IHNjYW5zIGFuZCBuZXR3b3JrIHNlY3VyaXR5IHNjYW5zLiBBbmQgaXQgbWFrZXMgaXQgc28gbXVjaCBlYXNpZXIgYW5kIG11Y2ggbW9yZSBlZmZpY2llbnQgaWYgeW91IGNhbiBkbyB0aGUgdHdvIHRvZ2V0aGVyIHVzaW5nIGEgc2luZ2xlIGludGVncmF0ZWQgdG9vbCwmcmRxdW87IHNhaWQgTmljb2xhcyBTY2liZXJyYXMsIENUTy48L3A**+ICAgICA8cD5UaGVyZSBhcmUgbWFueSBhZHZhbnRhZ2VzIG9mI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #6:
+  Category: Auth Tokens
+  Matched Text: ICAgICA8cD5UaGVyZSBhcmUgbWFueSBhZHZhbnRhZ2VzIG9mIHJ1bm5pbmcgbmV0d29yayBzZWN1cml0eSBzY2FucyBpbiBBY3VuZXRpeC4gSGF2aW5nIGEgc2luZ2xlIGludGVncmF0ZWQgZGFzaGJvYXJkIHdpdGggYm90aCB3ZWIgYW5kIG5ldHdvcmsgdnVsbmVyYWJpbGl0aWVzIGdpdmVzIHRoZSBiZXN0IHBvc3NpYmxlIHJpc2sgdmlzaWJpbGl0eSBhbmQgc2F2ZXMgYSBsb3Qgb2YgdGltZSBhbmQgZWZmb3J0LiBOZXR3b3JrIHNjYW5zIG1heSBhbHNvIGJlbmVmaXQgZnJvbSBvdGhlciBBY3VuZXRpeCBmZWF0dXJlcywgc3VjaCBhcyA8YSBocmVmPWh0dHBzOi8vd3d3LmFjdW5ldGl4LmNvbS92dWxuZXJhYmlsaXR5LXNjYW5uZXIvYWN1bmV0aXgtaW50ZWdyYXRpb25zLz5pc3N1ZSB0cmFja2VyIGludGVncmF0aW9uPC9hPiBhbmQgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vdnVsbmVyYWJpbGl0eS1zY2FubmVyL3Z1bG5lcmFiaWxpdHktbWFuYWdlbWVudC1yZWd1bGF0b3J5LWNvbXBsaWFuY2UvPmNvbXByZWhlbnNpdmUgcmVwb3J0aW5nPC9hPi48L3A
+  Context: RxdW87IHNhaWQgTmljb2xhcyBTY2liZXJyYXMsIENUTy48L3A+**ICAgICA8cD5UaGVyZSBhcmUgbWFueSBhZHZhbnRhZ2VzIG9mIHJ1bm5pbmcgbmV0d29yayBzZWN1cml0eSBzY2FucyBpbiBBY3VuZXRpeC4gSGF2aW5nIGEgc2luZ2xlIGludGVncmF0ZWQgZGFzaGJvYXJkIHdpdGggYm90aCB3ZWIgYW5kIG5ldHdvcmsgdnVsbmVyYWJpbGl0aWVzIGdpdmVzIHRoZSBiZXN0IHBvc3NpYmxlIHJpc2sgdmlzaWJpbGl0eSBhbmQgc2F2ZXMgYSBsb3Qgb2YgdGltZSBhbmQgZWZmb3J0LiBOZXR3b3JrIHNjYW5zIG1heSBhbHNvIGJlbmVmaXQgZnJvbSBvdGhlciBBY3VuZXRpeCBmZWF0dXJlcywgc3VjaCBhcyA8YSBocmVmPWh0dHBzOi8vd3d3LmFjdW5ldGl4LmNvbS92dWxuZXJhYmlsaXR5LXNjYW5uZXIvYWN1bmV0aXgtaW50ZWdyYXRpb25zLz5pc3N1ZSB0cmFja2VyIGludGVncmF0aW9uPC9hPiBhbmQgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vdnVsbmVyYWJpbGl0eS1zY2FubmVyL3Z1bG5lcmFiaWxpdHktbWFuYWdlbWVudC1yZWd1bGF0b3J5LWNvbXBsaWFuY2UvPmNvbXByZWhlbnNpdmUgcmVwb3J0aW5nPC9hPi48L3A**+ICAgICA8cD48c3Ryb25nPk1vcmUgRmVhdHVyZXMgaW4gdGhlI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #7:
+  Category: Auth Tokens
+  Matched Text: ICAgICA8cD48c3Ryb25nPk1vcmUgRmVhdHVyZXMgaW4gdGhlIExhdGVzdCBCdWlsZDwvc3Ryb25nPjwvcD4gICAgIDxwPk9wZW5WQVMgaW50ZWdyYXRpb24gaXMgaW50cm9kdWNlZCBhcyBwYXJ0IG9mIHRoZSBsYXRlc3QgQWN1bmV0aXggdmVyc2lvbiAxMiBidWlsZCAoPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vYmxvZy9yZWxlYXNlcy9uZXctYnVpbGQtbmV0d29yay1zY2FubmluZy1pbnRlZ3JhdGlvbi1pcHY2LXN1cHBvcnQvPmJ1aWxkIDEyLjAuMTkwNTE1MTQ5PC9hPikuIFRoaXMgbmV3IGJ1aWxkIGFsc28gaW5jbHVkZXM6PC9wPiAgICAgPHA
+  Context: FuY2UvPmNvbXByZWhlbnNpdmUgcmVwb3J0aW5nPC9hPi48L3A+**ICAgICA8cD48c3Ryb25nPk1vcmUgRmVhdHVyZXMgaW4gdGhlIExhdGVzdCBCdWlsZDwvc3Ryb25nPjwvcD4gICAgIDxwPk9wZW5WQVMgaW50ZWdyYXRpb24gaXMgaW50cm9kdWNlZCBhcyBwYXJ0IG9mIHRoZSBsYXRlc3QgQWN1bmV0aXggdmVyc2lvbiAxMiBidWlsZCAoPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vYmxvZy9yZWxlYXNlcy9uZXctYnVpbGQtbmV0d29yay1zY2FubmluZy1pbnRlZ3JhdGlvbi1pcHY2LXN1cHBvcnQvPmJ1aWxkIDEyLjAuMTkwNTE1MTQ5PC9hPikuIFRoaXMgbmV3IGJ1aWxkIGFsc28gaW5jbHVkZXM6PC9wPiAgICAgPHA**+LSBTdXBwb3J0IGZvciBJUHY2PGJyIC8+ICAgICAtIEltcHJvd
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #8:
+  Category: Auth Tokens
+  Matched Text: ICAgICAtIEFkZGVkIHN1cHBvcnQgZm9yIFNlbGVuaXVtIHNjcmlwdHMgYXMgaW1wb3J0IGZpbGVzPGJyIC8
+  Context: JvdmVkIHVzYWdlIG9mIG1hY2hpbmUgcmVzb3VyY2VzPGJyIC8+**ICAgICAtIEFkZGVkIHN1cHBvcnQgZm9yIFNlbGVuaXVtIHNjcmlwdHMgYXMgaW1wb3J0IGZpbGVzPGJyIC8**+ICAgICAtIE11bHRpcGxlIHZ1bG5lcmFiaWxpdHkgY2hlY2tzI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #9:
+  Category: Auth Tokens
+  Matched Text: ICAgICAtIE11bHRpcGxlIHZ1bG5lcmFiaWxpdHkgY2hlY2tzIGZvciBTQVA8YnIgLz4gICAgIC0gVW5hdXRob3JpemVkIGFjY2VzcyBkZXRlY3Rpb24gZm9yIFJlZGlzIGFuZCBNZW1jYWNoZWQ8YnIgLz4gICAgIC0gU291cmNlIGNvZGUgZGlzY2xvc3VyZSBmb3IgUnVieSBhbmQgUHl0aG9uPC9wPiAgICAgPHA
+  Context: NlbGVuaXVtIHNjcmlwdHMgYXMgaW1wb3J0IGZpbGVzPGJyIC8+**ICAgICAtIE11bHRpcGxlIHZ1bG5lcmFiaWxpdHkgY2hlY2tzIGZvciBTQVA8YnIgLz4gICAgIC0gVW5hdXRob3JpemVkIGFjY2VzcyBkZXRlY3Rpb24gZm9yIFJlZGlzIGFuZCBNZW1jYWNoZWQ8YnIgLz4gICAgIC0gU291cmNlIGNvZGUgZGlzY2xvc3VyZSBmb3IgUnVieSBhbmQgUHl0aG9uPC9wPiAgICAgPHA**+VGhlIG5ldyBidWlsZCBhbHNvIGluY2x1ZGVzIGEgbnVtYmVyI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #10:
+  Category: Auth Tokens
+  Matched Text: VGhlIG5ldyBidWlsZCBhbHNvIGluY2x1ZGVzIGEgbnVtYmVyIG9mIHVwZGF0ZXMgYW5kIGZpeGVzLCBhbGwgb2Ygd2hpY2ggYXJlIGF2YWlsYWJsZSBmb3IgYm90aCBXaW5kb3dzIGFuZCBMaW51eC4gTW9yZSBpbmZvcm1hdGlvbiBjYW4gYmUgZm91bmQgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vYmxvZy9yZWxlYXNlcy9uZXctYnVpbGQtbmV0d29yay1zY2FubmluZy1pbnRlZ3JhdGlvbi1pcHY2LXN1cHBvcnQvPmhlcmU8L2E
+  Context: xvc3VyZSBmb3IgUnVieSBhbmQgUHl0aG9uPC9wPiAgICAgPHA+**VGhlIG5ldyBidWlsZCBhbHNvIGluY2x1ZGVzIGEgbnVtYmVyIG9mIHVwZGF0ZXMgYW5kIGZpeGVzLCBhbGwgb2Ygd2hpY2ggYXJlIGF2YWlsYWJsZSBmb3IgYm90aCBXaW5kb3dzIGFuZCBMaW51eC4gTW9yZSBpbmZvcm1hdGlvbiBjYW4gYmUgZm91bmQgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vYmxvZy9yZWxlYXNlcy9uZXctYnVpbGQtbmV0d29yay1zY2FubmluZy1pbnRlZ3JhdGlvbi1pcHY2LXN1cHBvcnQvPmhlcmU8L2E**+LjwvcD4gICAgIDxwPkdldCBhIGRlbW8gb2YgdGhlIHByb2R1Y
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #11:
+  Category: Auth Tokens
+  Matched Text: LjwvcD4gICAgIDxwPkdldCBhIGRlbW8gb2YgdGhlIHByb2R1Y3QgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vbmV0d29yay1zZWN1cml0eS1zY2FubmVyLz5oZXJlPC9hPi48L3A
+  Context: luZy1pbnRlZ3JhdGlvbi1pcHY2LXN1cHBvcnQvPmhlcmU8L2E+**LjwvcD4gICAgIDxwPkdldCBhIGRlbW8gb2YgdGhlIHByb2R1Y3QgPGEgaHJlZj1odHRwczovL3d3dy5hY3VuZXRpeC5jb20vbmV0d29yay1zZWN1cml0eS1zY2FubmVyLz5oZXJlPC9hPi48L3A**+ICAgICA8cD48c3Ryb25nPkFib3V0IEFjdW5ldGl4PC9zdHJvb
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #12:
+  Category: Auth Tokens
+  Matched Text: VXNlci1mcmllbmRseSBhbmQgY29tcGV0aXRpdmVseSBwcmljZWQsIEFjdW5ldGl4IGxlYWRzIHRoZSBtYXJrZXQgaW4gYXV0b21hdGljIHdlYiBzZWN1cml0eSB0ZXN0aW5nIHRlY2hub2xvZ3kuIEl0cyBpbmR1c3RyeS1sZWFkaW5nIGNyYXdsZXIgZnVsbHkgc3VwcG9ydHMgSFRNTDUsIEphdmFTY3JpcHQsIGFuZCBBSkFYLWhlYXZ5IHdlYnNpdGVzLCBlbmFibGluZyB0aGUgYXVkaXRpbmcgb2YgY29tcGxleCwgYXV0aGVudGljYXRlZCBhcHBsaWNhdGlvbnMuIEFjdW5ldGl4IHByb3ZpZGVzIHRoZSBvbmx5IHRlY2hub2xvZ3kgb24gdGhlIG1hcmtldCB0aGF0IGNhbiBhdXRvbWF0aWNhbGx5IGRldGVjdCBvdXQtb2YtYmFuZCB2dWxuZXJhYmlsaXRpZXMgYW5kIGlzIGF2YWlsYWJsZSBib3RoIGFzIGFuIG9ubGluZSBhbmQgb24tcHJlbWlzZXMgc29sdXRpb24uIEFjdW5ldGl4IGFsc28gaW5jbHVkZXMgaW50ZWdyYXRlZCB2dWxuZXJhYmlsaXR5IG1hbmFnZW1lbnQgZmVhdHVyZXMgdG8gZXh0ZW5kIHRoZSBlbnRlcnByaXNlJnJzcXVvO3MgYWJpbGl0eSB0byBjb21wcmVoZW5zaXZlbHkgbWFuYWdlLCBwcmlvcml0aXplLCBhbmQgY29udHJvbCB2dWxuZXJhYmlsaXR5IHRocmVhdHMgJm5kYXNoOyBvcmRlcmVkIGJ5IGJ1c2luZXNzIGNyaXRpY2FsaXR5LjwvcD4gICAgIDxwPjxzdHJvbmc
+  Context: 5nPkFib3V0IEFjdW5ldGl4PC9zdHJvbmc+PC9wPiAgICAgPHA+**VXNlci1mcmllbmRseSBhbmQgY29tcGV0aXRpdmVseSBwcmljZWQsIEFjdW5ldGl4IGxlYWRzIHRoZSBtYXJrZXQgaW4gYXV0b21hdGljIHdlYiBzZWN1cml0eSB0ZXN0aW5nIHRlY2hub2xvZ3kuIEl0cyBpbmR1c3RyeS1sZWFkaW5nIGNyYXdsZXIgZnVsbHkgc3VwcG9ydHMgSFRNTDUsIEphdmFTY3JpcHQsIGFuZCBBSkFYLWhlYXZ5IHdlYnNpdGVzLCBlbmFibGluZyB0aGUgYXVkaXRpbmcgb2YgY29tcGxleCwgYXV0aGVudGljYXRlZCBhcHBsaWNhdGlvbnMuIEFjdW5ldGl4IHByb3ZpZGVzIHRoZSBvbmx5IHRlY2hub2xvZ3kgb24gdGhlIG1hcmtldCB0aGF0IGNhbiBhdXRvbWF0aWNhbGx5IGRldGVjdCBvdXQtb2YtYmFuZCB2dWxuZXJhYmlsaXRpZXMgYW5kIGlzIGF2YWlsYWJsZSBib3RoIGFzIGFuIG9ubGluZSBhbmQgb24tcHJlbWlzZXMgc29sdXRpb24uIEFjdW5ldGl4IGFsc28gaW5jbHVkZXMgaW50ZWdyYXRlZCB2dWxuZXJhYmlsaXR5IG1hbmFnZW1lbnQgZmVhdHVyZXMgdG8gZXh0ZW5kIHRoZSBlbnRlcnByaXNlJnJzcXVvO3MgYWJpbGl0eSB0byBjb21wcmVoZW5zaXZlbHkgbWFuYWdlLCBwcmlvcml0aXplLCBhbmQgY29udHJvbCB2dWxuZXJhYmlsaXR5IHRocmVhdHMgJm5kYXNoOyBvcmRlcmVkIGJ5IGJ1c2luZXNzIGNyaXRpY2FsaXR5LjwvcD4gICAgIDxwPjxzdHJvbmc**+QWN1bmV0aXgsIHRoZSBDb21wYW55PC9zdHJvbmc+PC9wPiAgI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #13:
+  Category: Auth Tokens
+  Matched Text: Rm91bmRlZCBpbiAyMDA0IHRvIGNvbWJhdCB0aGUgYWxhcm1pbmcgcmlzZSBpbiB3ZWIgYXBwbGljYXRpb24gYXR0YWNrcywgQWN1bmV0aXggaXMgdGhlIG1hcmtldCBsZWFkZXIgYW5kIGEgcGlvbmVlciBpbiBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHNlY3VyaXR5IHRlY2hub2xvZ3kuIEZyb20gaW5kaXZpZHVhbCBjb25zdWx0YW50cyB0byBlbnRlcnByaXNlcywgcGVuZXRyYXRpb24gdGVzdGVycyBhbmQgc2VjdXJpdHkgZXhwZXJ0cyBnbG9iYWxseSBkZXBlbmQgb24gQWN1bmV0aXggcHJvZHVjdHMgYW5kIHRlY2hub2xvZ2llcy4gSXQgaXMgdGhlIHRvb2wgb2YgY2hvaWNlIGZvciBtYW55IGN1c3RvbWVycyBhY3Jvc3Mgc2VjdG9ycywgaW5jbHVkaW5nIEdvdmVybm1lbnQsIE1pbGl0YXJ5LCBFZHVjYXRpb24sIFRlbGVjb21tdW5pY2F0aW9ucywgQmFua2luZywgRmluYW5jZSwgYW5kIEUtQ29tbWVyY2Ugc2VjdG9ycyBhcyB3ZWxsIGFzIG1hbnkgRm9ydHVuZSA1MDAgY29tcGFuaWVzIHN1Y2ggYXMgdGhlIFBlbnRhZ29uLCBIYXJwZXIgQ29sbGlucywgRGlzbmV5LCBBZG9iZSwgYW5kIG1hbnkgbW9yZS48L3A
+  Context: V0aXgsIHRoZSBDb21wYW55PC9zdHJvbmc+PC9wPiAgICAgPHA+**Rm91bmRlZCBpbiAyMDA0IHRvIGNvbWJhdCB0aGUgYWxhcm1pbmcgcmlzZSBpbiB3ZWIgYXBwbGljYXRpb24gYXR0YWNrcywgQWN1bmV0aXggaXMgdGhlIG1hcmtldCBsZWFkZXIgYW5kIGEgcGlvbmVlciBpbiBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHNlY3VyaXR5IHRlY2hub2xvZ3kuIEZyb20gaW5kaXZpZHVhbCBjb25zdWx0YW50cyB0byBlbnRlcnByaXNlcywgcGVuZXRyYXRpb24gdGVzdGVycyBhbmQgc2VjdXJpdHkgZXhwZXJ0cyBnbG9iYWxseSBkZXBlbmQgb24gQWN1bmV0aXggcHJvZHVjdHMgYW5kIHRlY2hub2xvZ2llcy4gSXQgaXMgdGhlIHRvb2wgb2YgY2hvaWNlIGZvciBtYW55IGN1c3RvbWVycyBhY3Jvc3Mgc2VjdG9ycywgaW5jbHVkaW5nIEdvdmVybm1lbnQsIE1pbGl0YXJ5LCBFZHVjYXRpb24sIFRlbGVjb21tdW5pY2F0aW9ucywgQmFua2luZywgRmluYW5jZSwgYW5kIEUtQ29tbWVyY2Ugc2VjdG9ycyBhcyB3ZWxsIGFzIG1hbnkgRm9ydHVuZSA1MDAgY29tcGFuaWVzIHN1Y2ggYXMgdGhlIFBlbnRhZ29uLCBIYXJwZXIgQ29sbGlucywgRGlzbmV5LCBBZG9iZSwgYW5kIG1hbnkgbW9yZS48L3A**+ZAIJDw8WAh4LTmF2aWdhdGVVcmwFEkNvbW1lbnRzLmFzcHg/a
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #14:
+  Category: Auth Tokens
+  Matched Text: aWQ9MGRkAgsPFgIeA3NyYwUMYWRzL2RlZi5odG1sZGTxtiNRXSWMk2xH7U3KJPX1k9tDKQ
+  Context: A+ZAIJDw8WAh4LTmF2aWdhdGVVcmwFEkNvbW1lbnRzLmFzcHg/**aWQ9MGRkAgsPFgIeA3NyYwUMYWRzL2RlZi5odG1sZGTxtiNRXSWMk2xH7U3KJPX1k9tDKQ**==" />
+</div>
+
+<script type="text/javascript">
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #15:
+  Category: Auth Tokens
+  Matched Text: AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCiTX8zVlVbyvLhnkOQu4AzfViZP2
+  Context: RutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+**AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCiTX8zVlVbyvLhnkOQu4AzfViZP2**" />
+</div>
+			
+<TABLE id="Table1" cellSpacing=
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #16:
+  Category: Twilio API Keys
+  Matched Text: aCB0aGUgcG93ZXJmdWwgT3BlblZBUyBzZW
+  Context: Ugc2VhbWxlc3MgaW50ZWdyYXRpb24gb2YgQWN1bmV0aXggd2l0**aCB0aGUgcG93ZXJmdWwgT3BlblZBUyBzZW**N1cml0eSBzb2x1dGlvbi4gVW50aWwgbm93LCBuZXR3b3JrIHNl
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #17:
+  Category: Twilio API Keys
+  Matched Text: aCBlYXNpZXIgYW5kIG11Y2ggbW9yZSBlZm
+  Context: NlY3VyaXR5IHNjYW5zLiBBbmQgaXQgbWFrZXMgaXQgc28gbXVj**aCBlYXNpZXIgYW5kIG11Y2ggbW9yZSBlZm**ZpY2llbnQgaWYgeW91IGNhbiBkbyB0aGUgdHdvIHRvZ2V0aGVy
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #18:
+  Category: Twilio API Keys
+  Matched Text: aCB3ZWIgYW5kIG5ldHdvcmsgdnVsbmVyYW
+  Context: Egc2luZ2xlIGludGVncmF0ZWQgZGFzaGJvYXJkIHdpdGggYm90**aCB3ZWIgYW5kIG5ldHdvcmsgdnVsbmVyYW**JpbGl0aWVzIGdpdmVzIHRoZSBiZXN0IHBvc3NpYmxlIHJpc2sg
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #19:
+  Category: Twilio API Keys
+  Matched Text: aCBhcyA8YSBocmVmPWh0dHBzOi8vd3d3Lm
+  Context: VmaXQgZnJvbSBvdGhlciBBY3VuZXRpeCBmZWF0dXJlcywgc3Vj**aCBhcyA8YSBocmVmPWh0dHBzOi8vd3d3Lm**FjdW5ldGl4LmNvbS92dWxuZXJhYmlsaXR5LXNjYW5uZXIvYWN1
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #20:
+  Category: Twilio API Keys
+  Matched Text: aCBXaW5kb3dzIGFuZCBMaW51eC4gTW9yZS
+  Context: VzLCBhbGwgb2Ygd2hpY2ggYXJlIGF2YWlsYWJsZSBmb3IgYm90**aCBXaW5kb3dzIGFuZCBMaW51eC4gTW9yZS**BpbmZvcm1hdGlvbiBjYW4gYmUgZm91bmQgPGEgaHJlZj1odHRw
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testaspnet.vulnweb.com/Comments.aspx?id=3
+-----------------------------------------------------
+
+Finding #1:
+  Category: Auth Tokens
+  Matched Text: wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFggCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc
+  Context: dden" name="__VIEWSTATE" id="__VIEWSTATE" value="/**wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFggCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc**+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExL
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Auth Tokens
+  Matched Text: YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNzozNSBBTWQCBQ8WBB8BBTFBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIGJldGEgcmVsZWFzZWQhHwAFElJlYWROZXdzLmFzcHg
+  Context: 4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+**YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNzozNSBBTWQCBQ8WBB8BBTFBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIGJldGEgcmVsZWFzZWQhHwAFElJlYWROZXdzLmFzcHg**/aWQ9M2QCBw8WAh8BBagBMjYgSmFudWFyeSAyMDA1IC0gQSBiZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #3:
+  Category: Auth Tokens
+  Matched Text: aWQ9M2QCBw8WAh8BBagBMjYgSmFudWFyeSAyMDA1IC0gQSBiZXRhIHZlcnNpb24gb2YgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciBoYXMgYmVlbiByZWxlYXNlZCB0b2RheS4gVGhlIGJldGEgaXMgYXZhaWxhYmxlIGZvciBkb3dubG9hZCBhdCBodHRwOi8vd3d3LmFjdW5ldGl4LmNvbS9kb3dubG9hZC8uZGQzP
+  Context: FubmVyIGJldGEgcmVsZWFzZWQhHwAFElJlYWROZXdzLmFzcHg/**aWQ9M2QCBw8WAh8BBagBMjYgSmFudWFyeSAyMDA1IC0gQSBiZXRhIHZlcnNpb24gb2YgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciBoYXMgYmVlbiByZWxlYXNlZCB0b2RheS4gVGhlIGJldGEgaXMgYXZhaWxhYmxlIGZvciBkb3dubG9hZCBhdCBodHRwOi8vd3d3LmFjdW5ldGl4LmNvbS9kb3dubG9hZC8uZGQzP**/MHHnstJY/fWtD4cYSdoYkheQ==" />
+</div>
+
+<script
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #4:
+  Category: Auth Tokens
+  Matched Text: AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCvx8dHSf3vHlrdt8NRvOVFelZf8x
+  Context: RutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+**AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCvx8dHSf3vHlrdt8NRvOVFelZf8x**" />
+</div>
+			
+<TABLE id="Table1" cellSpacing=
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=3&NewsAd=ads/def.html
+-------------------------------------------------------------------------
+
+Finding #1:
+  Category: Auth Tokens
+  Matched Text: wEPDwUKLTM1MjIzMjU2OQ9kFgICAQ9kFgwCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc
+  Context: dden" name="__VIEWSTATE" id="__VIEWSTATE" value="/**wEPDwUKLTM1MjIzMjU2OQ9kFgICAQ9kFgwCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc**+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExL
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Auth Tokens
+  Matched Text: YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNzozNSBBTWQCBQ8WAh8BBTFBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIGJldGEgcmVsZWFzZWQhZAIHDxYCHwEFnA48cD5EdXJpbmcgdGhlIGJldGEgcGhhc2UsIGJ1aWxkcyBhcmUgcmVsZWFzZWQgZnJlcXVlbnRseSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlcmVmb3JlIGl0IGlzIG5vdCByZWNvbW1lbmRlZCB0aGF0IHRoZSBzYW1lIGJldGEgdmVyc2lvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpcyB1c2VkIGZvciBtb3JlIHRoYW4gMzAgZGF5cy4gVG8gYmV0YS10ZXN0IGJleW9uZCAzMCAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXlzLCB1c2VycyBzaG91bGQgaW5zdGFsbCB0aGUgbGF0ZXN0IGJldGEgdmVyc2lvbiBvciwgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgYXZhaWxhYmxlLCB1c2UgdGhlIHJlbGVhc2UgdmVyc2lvbi48L3A
+  Context: 4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+**YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNzozNSBBTWQCBQ8WAh8BBTFBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIGJldGEgcmVsZWFzZWQhZAIHDxYCHwEFnA48cD5EdXJpbmcgdGhlIGJldGEgcGhhc2UsIGJ1aWxkcyBhcmUgcmVsZWFzZWQgZnJlcXVlbnRseSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlcmVmb3JlIGl0IGlzIG5vdCByZWNvbW1lbmRlZCB0aGF0IHRoZSBzYW1lIGJldGEgdmVyc2lvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpcyB1c2VkIGZvciBtb3JlIHRoYW4gMzAgZGF5cy4gVG8gYmV0YS10ZXN0IGJleW9uZCAzMCAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXlzLCB1c2VycyBzaG91bGQgaW5zdGFsbCB0aGUgbGF0ZXN0IGJldGEgdmVyc2lvbiBvciwgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgYXZhaWxhYmxlLCB1c2UgdGhlIHJlbGVhc2UgdmVyc2lvbi48L3A**+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+PHN0cm9uZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #3:
+  Category: Auth Tokens
+  Matched Text: PHN0cm9uZz5BYm91dCBBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyPC9zdHJvbmc
+  Context: lvbi48L3A+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+**PHN0cm9uZz5BYm91dCBBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyPC9zdHJvbmc**+PGJyIC8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1b
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #4:
+  Category: Auth Tokens
+  Matched Text: ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciwgYSB1bmlxdWUgd2ViIGFwcGxpY2F0aW9uICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjYW5uaW5nIHByb2R1Y3QgdGhhdCBtYWtlcyBzZWN1cmluZyBvbmUmcnNxdW87cyB3ZWJzaXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVhc2llciB0aGFuIGV2ZXIuIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXMgYW4gYXV0b21hdGVkIHdlYiBhcHBsaWNhdGlvbiBzZWN1cml0eSB0ZXN0aW5nIHRvb2wgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhhdCBjcmF3bHMgYW4gZW50aXJlIHdlYnNpdGUgYW5kIGF0dGFja3MgaXQgc28gYXMgdG8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaWRlbnRpZnkgcG90ZW50aWFsIHdlYWtuZXNzZXMgYmVmb3JlIGhhY2tlcnMgZG8uIEZ1cnRoZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlIDxhIGhyZWY9aHR0cHM6Ly93d3cuYWN1bmV0aXguY29tL3Z1bG5lcmFiaWxpdHktc2Nhbm5lci8
+  Context: IgVnVsbmVyYWJpbGl0eSBTY2FubmVyPC9zdHJvbmc+PGJyIC8+**ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciwgYSB1bmlxdWUgd2ViIGFwcGxpY2F0aW9uICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjYW5uaW5nIHByb2R1Y3QgdGhhdCBtYWtlcyBzZWN1cmluZyBvbmUmcnNxdW87cyB3ZWJzaXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVhc2llciB0aGFuIGV2ZXIuIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXMgYW4gYXV0b21hdGVkIHdlYiBhcHBsaWNhdGlvbiBzZWN1cml0eSB0ZXN0aW5nIHRvb2wgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhhdCBjcmF3bHMgYW4gZW50aXJlIHdlYnNpdGUgYW5kIGF0dGFja3MgaXQgc28gYXMgdG8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaWRlbnRpZnkgcG90ZW50aWFsIHdlYWtuZXNzZXMgYmVmb3JlIGhhY2tlcnMgZG8uIEZ1cnRoZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlIDxhIGhyZWY9aHR0cHM6Ly93d3cuYWN1bmV0aXguY29tL3Z1bG5lcmFiaWxpdHktc2Nhbm5lci8**+aGVyZTwvYT4uPC9wPiAgICAgICAgICAgICAgICAgICAgICAgI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #5:
+  Category: Auth Tokens
+  Matched Text: aGVyZTwvYT4uPC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc
+  Context: cuYWN1bmV0aXguY29tL3Z1bG5lcmFiaWxpdHktc2Nhbm5lci8+**aGVyZTwvYT4uPC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc**+QWJvdXQgQWN1bmV0aXg8L3N0cm9uZz48L3A+ICAgICA8cD5Vc
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #6:
+  Category: Auth Tokens
+  Matched Text: ICAgICA8cD5Vc2VyLWZyaWVuZGx5IGFuZCBjb21wZXRpdGl2ZWx5IHByaWNlZCwgQWN1bmV0aXggbGVhZHMgdGhlIG1hcmtldCBpbiBhdXRvbWF0aWMgd2ViIHNlY3VyaXR5IHRlc3RpbmcgdGVjaG5vbG9neS4gSXRzIGluZHVzdHJ5LWxlYWRpbmcgY3Jhd2xlciBmdWxseSBzdXBwb3J0cyBIVE1MNSwgSmF2YVNjcmlwdCwgYW5kIEFKQVgtaGVhdnkgd2Vic2l0ZXMsIGVuYWJsaW5nIHRoZSBhdWRpdGluZyBvZiBjb21wbGV4LCBhdXRoZW50aWNhdGVkIGFwcGxpY2F0aW9ucy4gQWN1bmV0aXggcHJvdmlkZXMgdGhlIG9ubHkgdGVjaG5vbG9neSBvbiB0aGUgbWFya2V0IHRoYXQgY2FuIGF1dG9tYXRpY2FsbHkgZGV0ZWN0IG91dC1vZi1iYW5kIHZ1bG5lcmFiaWxpdGllcyBhbmQgaXMgYXZhaWxhYmxlIGJvdGggYXMgYW4gb25saW5lIGFuZCBvbi1wcmVtaXNlcyBzb2x1dGlvbi4gQWN1bmV0aXggYWxzbyBpbmNsdWRlcyBpbnRlZ3JhdGVkIHZ1bG5lcmFiaWxpdHkgbWFuYWdlbWVudCBmZWF0dXJlcyB0byBleHRlbmQgdGhlIGVudGVycHJpc2UmcnNxdW87cyBhYmlsaXR5IHRvIGNvbXByZWhlbnNpdmVseSBtYW5hZ2UsIHByaW9yaXRpemUsIGFuZCBjb250cm9sIHZ1bG5lcmFiaWxpdHkgdGhyZWF0cyAmbmRhc2g7IG9yZGVyZWQgYnkgYnVzaW5lc3MgY3JpdGljYWxpdHkuPC9wPmQCCQ8PFgIeC05hdmlnYXRlVXJsBRJDb21tZW50cy5hc3B4P2lkPTNkZAILDxYCHgNzcmMFDGFkcy9kZWYuaHRtbGRkSGybNfT47lMyCtVUwkelFkD9wY8
+  Context: xwPjxzdHJvbmc+QWJvdXQgQWN1bmV0aXg8L3N0cm9uZz48L3A+**ICAgICA8cD5Vc2VyLWZyaWVuZGx5IGFuZCBjb21wZXRpdGl2ZWx5IHByaWNlZCwgQWN1bmV0aXggbGVhZHMgdGhlIG1hcmtldCBpbiBhdXRvbWF0aWMgd2ViIHNlY3VyaXR5IHRlc3RpbmcgdGVjaG5vbG9neS4gSXRzIGluZHVzdHJ5LWxlYWRpbmcgY3Jhd2xlciBmdWxseSBzdXBwb3J0cyBIVE1MNSwgSmF2YVNjcmlwdCwgYW5kIEFKQVgtaGVhdnkgd2Vic2l0ZXMsIGVuYWJsaW5nIHRoZSBhdWRpdGluZyBvZiBjb21wbGV4LCBhdXRoZW50aWNhdGVkIGFwcGxpY2F0aW9ucy4gQWN1bmV0aXggcHJvdmlkZXMgdGhlIG9ubHkgdGVjaG5vbG9neSBvbiB0aGUgbWFya2V0IHRoYXQgY2FuIGF1dG9tYXRpY2FsbHkgZGV0ZWN0IG91dC1vZi1iYW5kIHZ1bG5lcmFiaWxpdGllcyBhbmQgaXMgYXZhaWxhYmxlIGJvdGggYXMgYW4gb25saW5lIGFuZCBvbi1wcmVtaXNlcyBzb2x1dGlvbi4gQWN1bmV0aXggYWxzbyBpbmNsdWRlcyBpbnRlZ3JhdGVkIHZ1bG5lcmFiaWxpdHkgbWFuYWdlbWVudCBmZWF0dXJlcyB0byBleHRlbmQgdGhlIGVudGVycHJpc2UmcnNxdW87cyBhYmlsaXR5IHRvIGNvbXByZWhlbnNpdmVseSBtYW5hZ2UsIHByaW9yaXRpemUsIGFuZCBjb250cm9sIHZ1bG5lcmFiaWxpdHkgdGhyZWF0cyAmbmRhc2g7IG9yZGVyZWQgYnkgYnVzaW5lc3MgY3JpdGljYWxpdHkuPC9wPmQCCQ8PFgIeC05hdmlnYXRlVXJsBRJDb21tZW50cy5hc3B4P2lkPTNkZAILDxYCHgNzcmMFDGFkcy9kZWYuaHRtbGRkSGybNfT47lMyCtVUwkelFkD9wY8**=" />
+</div>
+
+<script type="text/javascript">
+
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #7:
+  Category: Auth Tokens
+  Matched Text: AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCsYYNkme8N750rdwr4897jafc
+  Context: RutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+**AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCsYYNkme8N750rdwr4897jafc**/Wj" />
+</div>
+			
+<TABLE id="Table1" cellSpaci
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testaspnet.vulnweb.com/Comments.aspx?id=2
+-----------------------------------------------------
+
+Finding #1:
+  Category: Auth Tokens
+  Matched Text: wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFggCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc
+  Context: dden" name="__VIEWSTATE" id="__VIEWSTATE" value="/**wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFggCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc**+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExL
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Auth Tokens
+  Matched Text: YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNToyMiBBTWQCBQ8WBB8BBTxXZWIgYXR0YWNrcyAtIGNhbiB5b3VyIHdlYiBhcHBsaWNhdGlvbnMgd2l0aHN0YW5kIHRoZSBmb3JjZT8fAAUSUmVhZE5ld3MuYXNweD9pZD0yZAIHDxYCHwEFrAIyMSBKdWx5IDIwMDUgLSBTdGFydC11cCBjb21wYW55IEFjdW5ldGl4IHJlbGVhc2VkIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXI6IGEgdG9vbCB0byBhdXRvbWF0aWNhbGx5IGF1ZGl0IHdlYnNpdGUgc2VjdXJpdHkuIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgMiBjcmF3bHMgYW4gZW50aXJlIHdlYnNpdGUsIGxhdW5jaGVzIHBvcHVsYXIgd2ViIGF0dGFja3MgKFNRTCBJbmplY3Rpb24gZXRjLikgYW5kIGlkZW50aWZpZXMgdnVsbmVyYWJpbGl0aWVzIHRoYXQgbmVlZCB0byBiZSBmaXhlZC5kZLQBJ3hOt3r5jKtYjVFFKdowCSWC
+  Context: 4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+**YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNToyMiBBTWQCBQ8WBB8BBTxXZWIgYXR0YWNrcyAtIGNhbiB5b3VyIHdlYiBhcHBsaWNhdGlvbnMgd2l0aHN0YW5kIHRoZSBmb3JjZT8fAAUSUmVhZE5ld3MuYXNweD9pZD0yZAIHDxYCHwEFrAIyMSBKdWx5IDIwMDUgLSBTdGFydC11cCBjb21wYW55IEFjdW5ldGl4IHJlbGVhc2VkIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXI6IGEgdG9vbCB0byBhdXRvbWF0aWNhbGx5IGF1ZGl0IHdlYnNpdGUgc2VjdXJpdHkuIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgMiBjcmF3bHMgYW4gZW50aXJlIHdlYnNpdGUsIGxhdW5jaGVzIHBvcHVsYXIgd2ViIGF0dGFja3MgKFNRTCBJbmplY3Rpb24gZXRjLikgYW5kIGlkZW50aWZpZXMgdnVsbmVyYWJpbGl0aWVzIHRoYXQgbmVlZCB0byBiZSBmaXhlZC5kZLQBJ3hOt3r5jKtYjVFFKdowCSWC**" />
+</div>
+
+<script type="text/javascript">
+/
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #3:
+  Category: Auth Tokens
+  Matched Text: AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HClUPbIyiBy
+  Context: RutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+**AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HClUPbIyiBy**/5fqms8MpnO+0sWevL" />
+</div>
+			
+<TABLE id="Ta
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=2&NewsAd=ads/def.html
+-------------------------------------------------------------------------
+
+Finding #1:
+  Category: Auth Tokens
+  Matched Text: wEPDwUKLTM1MjIzMjU2OQ9kFgICAQ9kFgwCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc
+  Context: dden" name="__VIEWSTATE" id="__VIEWSTATE" value="/**wEPDwUKLTM1MjIzMjU2OQ9kFgICAQ9kFgwCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc**+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExL
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Auth Tokens
+  Matched Text: YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNToyMiBBTWQCBQ8WAh8BBTxXZWIgYXR0YWNrcyAtIGNhbiB5b3VyIHdlYiBhcHBsaWNhdGlvbnMgd2l0aHN0YW5kIHRoZSBmb3JjZT9kAgcPFgIfAQWbODxwPjxzdHJvbmc
+  Context: 4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+**YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNToyMiBBTWQCBQ8WAh8BBTxXZWIgYXR0YWNrcyAtIGNhbiB5b3VyIHdlYiBhcHBsaWNhdGlvbnMgd2l0aHN0YW5kIHRoZSBmb3JjZT9kAgcPFgIfAQWbODxwPjxzdHJvbmc**+QWN1bmV0aXggY29tYmF0cyByaXNlIGluIHdlYiBhdHRhY2tzI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #3:
+  Category: Auth Tokens
+  Matched Text: QWN1bmV0aXggY29tYmF0cyByaXNlIGluIHdlYiBhdHRhY2tzIHdpdGggQWN1bmV0aXggICAgICAgICAgICAgICAgICAgICAgICAgICAgV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciAyIDwvc3Ryb25nPjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD4yMSBKdWx5IDIwMDUgLSA8c3Ryb25nPlN0YXJ0LXVwIGNvbXBhbnkgQWN1bmV0aXggcmVsZWFzZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lcjogYSB0b29sIHRvIGF1dG9tYXRpY2FsbHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXVkaXQgd2Vic2l0ZSBzZWN1cml0eS4gQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciAgICAgICAgICAgICAgICAgICAgICAgICAgICAyIGNyYXdscyBhbiBlbnRpcmUgd2Vic2l0ZSwgbGF1bmNoZXMgcG9wdWxhciB3ZWIgYXR0YWNrcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAoU1FMIEluamVjdGlvbiBldGMuKSBhbmQgaWRlbnRpZmllcyB2dWxuZXJhYmlsaXRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhhdCBuZWVkIHRvIGJlIGZpeGVkLjwvc3Ryb25nPiA8L3A
+  Context: N0YW5kIHRoZSBmb3JjZT9kAgcPFgIfAQWbODxwPjxzdHJvbmc+**QWN1bmV0aXggY29tYmF0cyByaXNlIGluIHdlYiBhdHRhY2tzIHdpdGggQWN1bmV0aXggICAgICAgICAgICAgICAgICAgICAgICAgICAgV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciAyIDwvc3Ryb25nPjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD4yMSBKdWx5IDIwMDUgLSA8c3Ryb25nPlN0YXJ0LXVwIGNvbXBhbnkgQWN1bmV0aXggcmVsZWFzZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lcjogYSB0b29sIHRvIGF1dG9tYXRpY2FsbHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXVkaXQgd2Vic2l0ZSBzZWN1cml0eS4gQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciAgICAgICAgICAgICAgICAgICAgICAgICAgICAyIGNyYXdscyBhbiBlbnRpcmUgd2Vic2l0ZSwgbGF1bmNoZXMgcG9wdWxhciB3ZWIgYXR0YWNrcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAoU1FMIEluamVjdGlvbiBldGMuKSBhbmQgaWRlbnRpZmllcyB2dWxuZXJhYmlsaXRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhhdCBuZWVkIHRvIGJlIGZpeGVkLjwvc3Ryb25nPiA8L3A**+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+PHN0cm9uZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #4:
+  Category: Auth Tokens
+  Matched Text: PHN0cm9uZz5TZWN1cmluZyB5b3VyIHdlYnNpdGUgc2hvdWxkIGJlIHlvdXIgbnVtYmVyIG9uZSAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25jZXJuPC9zdHJvbmc
+  Context: 5nPiA8L3A+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+**PHN0cm9uZz5TZWN1cmluZyB5b3VyIHdlYnNpdGUgc2hvdWxkIGJlIHlvdXIgbnVtYmVyIG9uZSAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25jZXJuPC9zdHJvbmc**+PGJyIC8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFja
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #5:
+  Category: Auth Tokens
+  Matched Text: ICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFja2VycyBhcmUgY29uY2VudHJhdGluZyB0aGVpciBlZmZvcnRzIG9uIHdlYi1iYXNlZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcHBsaWNhdGlvbnMgLSA3NSUgb2YgY3liZXIgYXR0YWNrcyBhcmUgZG9uZSBhdCB0aGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2ViIGFwcGxpY2F0aW9uIGxldmVsLCBhIEdhcnRuZXIgR3JvdXAgc3R1ZHkgaGFzIHJldmVhbGVkLiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXZWIgYXBwbGljYXRpb25zIGFyZSBhY2Nlc3NpYmxlIDI0IGhvdXJzIGEgZGF5LCA3IGRheXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgYSB3ZWVrIGFuZCBjb250cm9sIHZhbHVhYmxlIGRhdGEgc3VjaCBhcyBjdXN0b21lciBpbmZvcm1hdGlvbiwgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNhY3Rpb24gaW5mb3JtYXRpb24gYW5kIGV2ZW4gcHJvcHJpZXRhcnkgY29ycG9yYXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEuPC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc
+  Context: AgICAgICAgICAgICAgICBjb25jZXJuPC9zdHJvbmc+PGJyIC8+**ICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFja2VycyBhcmUgY29uY2VudHJhdGluZyB0aGVpciBlZmZvcnRzIG9uIHdlYi1iYXNlZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcHBsaWNhdGlvbnMgLSA3NSUgb2YgY3liZXIgYXR0YWNrcyBhcmUgZG9uZSBhdCB0aGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2ViIGFwcGxpY2F0aW9uIGxldmVsLCBhIEdhcnRuZXIgR3JvdXAgc3R1ZHkgaGFzIHJldmVhbGVkLiAgICAgICAgICAgICAgICAgICAgICAgICAgICBXZWIgYXBwbGljYXRpb25zIGFyZSBhY2Nlc3NpYmxlIDI0IGhvdXJzIGEgZGF5LCA3IGRheXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgYSB3ZWVrIGFuZCBjb250cm9sIHZhbHVhYmxlIGRhdGEgc3VjaCBhcyBjdXN0b21lciBpbmZvcm1hdGlvbiwgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNhY3Rpb24gaW5mb3JtYXRpb24gYW5kIGV2ZW4gcHJvcHJpZXRhcnkgY29ycG9yYXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEuPC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc**+NTAwLDAwMCBjdXN0b21lciBjcmVkaXQgY2FyZCBudW1iZXJzI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #6:
+  Category: Auth Tokens
+  Matched Text: NTAwLDAwMCBjdXN0b21lciBjcmVkaXQgY2FyZCBudW1iZXJzIG9idGFpbmVkIHZpYSAgICAgICAgICAgICAgICAgICAgICAgICAgICBhIHdlYiBhdHRhY2s8L3N0cm9uZz48YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICBXZWxsLWtub3duIHNpdGVzIHRoYXQgd2VyZSBvcGVuIHRvIHdlYiBhcHBsaWNhdGlvbiBhdHRhY2tzICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1ZGUgZmFzaGlvbiBsYWJlbCBHdWVzcyBhbmQgcGV0IHN1cHBseSByZXRhaWxlciAgICAgICAgICAgICAgICAgICAgICAgICAgICBQZXRDby5jb20gd2hvIHdlcmUgbm90b3Jpb3VzbHkgZm91bmQgdG8gYmUgdnVsbmVyYWJsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICB0byB0aGUgU1FMIGluamVjdGlvbiB2dWxuZXJhYmlsaXR5IChKdW5lIDIwMDMpLiBUaGlzICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdGVkIGluIFBldENvIGxlYXZpbmcgYXMgbWFueSBhcyA1MDAsMDAwIGNyZWRpdCAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXJkIG51bWJlcnMgb3BlbiB0byBhbnlvbmUgYWJsZSB0byBjb25zdHJ1Y3QgdGhpcyBzcGVjaWFsbHktY3JhZnRlZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBVUkwuPC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc
+  Context: AgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc+**NTAwLDAwMCBjdXN0b21lciBjcmVkaXQgY2FyZCBudW1iZXJzIG9idGFpbmVkIHZpYSAgICAgICAgICAgICAgICAgICAgICAgICAgICBhIHdlYiBhdHRhY2s8L3N0cm9uZz48YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICBXZWxsLWtub3duIHNpdGVzIHRoYXQgd2VyZSBvcGVuIHRvIHdlYiBhcHBsaWNhdGlvbiBhdHRhY2tzICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1ZGUgZmFzaGlvbiBsYWJlbCBHdWVzcyBhbmQgcGV0IHN1cHBseSByZXRhaWxlciAgICAgICAgICAgICAgICAgICAgICAgICAgICBQZXRDby5jb20gd2hvIHdlcmUgbm90b3Jpb3VzbHkgZm91bmQgdG8gYmUgdnVsbmVyYWJsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICB0byB0aGUgU1FMIGluamVjdGlvbiB2dWxuZXJhYmlsaXR5IChKdW5lIDIwMDMpLiBUaGlzICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdGVkIGluIFBldENvIGxlYXZpbmcgYXMgbWFueSBhcyA1MDAsMDAwIGNyZWRpdCAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXJkIG51bWJlcnMgb3BlbiB0byBhbnlvbmUgYWJsZSB0byBjb25zdHJ1Y3QgdGhpcyBzcGVjaWFsbHktY3JhZnRlZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBVUkwuPC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc**+RmlyZXdhbGxzLCBTU0wgYW5kIGxvY2tlZC1kb3duIHNlcnZlc
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #7:
+  Category: Auth Tokens
+  Matched Text: RmlyZXdhbGxzLCBTU0wgYW5kIGxvY2tlZC1kb3duIHNlcnZlcnMgYXJlIGZ1dGlsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZ2FpbnN0IHdlYiBhcHBsaWNhdGlvbiBoYWNraW5nPC9zdHJvbmc
+  Context: AgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc+**RmlyZXdhbGxzLCBTU0wgYW5kIGxvY2tlZC1kb3duIHNlcnZlcnMgYXJlIGZ1dGlsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZ2FpbnN0IHdlYiBhcHBsaWNhdGlvbiBoYWNraW5nPC9zdHJvbmc**+PGJyIC8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW55I
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #8:
+  Category: Auth Tokens
+  Matched Text: ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW55IGRlZmVuc2UgYXQgbmV0d29yayBzZWN1cml0eSBsZXZlbCB3aWxsIHByb3ZpZGUgbm8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvdGVjdGlvbiBhZ2FpbnN0IHdlYiBhcHBsaWNhdGlvbiBhdHRhY2tzIHNpbmNlIHRoZXkgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJlIGxhdW5jaGVkIG9uIHBvcnQgODAgLSB3aGljaCBoYXMgdG8gcmVtYWluIG9wZW4uICAgICAgICAgICAgICAgICAgICAgICAgICAgIEluIGFkZGl0aW9uLCB3ZWIgYXBwbGljYXRpb25zIChjdXN0b21lciBhcmVhcywgc2hvcHBpbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FydHMgZXRjLikgYXJlIG9mdGVuIHRhaWxvci1tYWRlLCBpbnZhcmlhYmx5IHRlc3RlZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXNzIHRoYW4gb2ZmLXRoZS1zaGVsZiBzb2Z0d2FyZSBhbmQgYXJlIHRoZXJlZm9yZSBtb3JlICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1c2NlcHRpYmxlIHRvIGF0dGFjay48L3A
+  Context: dlYiBhcHBsaWNhdGlvbiBoYWNraW5nPC9zdHJvbmc+PGJyIC8+**ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW55IGRlZmVuc2UgYXQgbmV0d29yayBzZWN1cml0eSBsZXZlbCB3aWxsIHByb3ZpZGUgbm8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvdGVjdGlvbiBhZ2FpbnN0IHdlYiBhcHBsaWNhdGlvbiBhdHRhY2tzIHNpbmNlIHRoZXkgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJlIGxhdW5jaGVkIG9uIHBvcnQgODAgLSB3aGljaCBoYXMgdG8gcmVtYWluIG9wZW4uICAgICAgICAgICAgICAgICAgICAgICAgICAgIEluIGFkZGl0aW9uLCB3ZWIgYXBwbGljYXRpb25zIChjdXN0b21lciBhcmVhcywgc2hvcHBpbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FydHMgZXRjLikgYXJlIG9mdGVuIHRhaWxvci1tYWRlLCBpbnZhcmlhYmx5IHRlc3RlZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXNzIHRoYW4gb2ZmLXRoZS1zaGVsZiBzb2Z0d2FyZSBhbmQgYXJlIHRoZXJlZm9yZSBtb3JlICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1c2NlcHRpYmxlIHRvIGF0dGFjay48L3A**+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+JnF1b3Q7Q
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #9:
+  Category: Auth Tokens
+  Matched Text: JnF1b3Q7Q29tcGFuaWVzIGhhdmUgaW1wbGVtZW50ZWQgbmV0d29yay1sZXZlbCBzZWN1cml0eSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgaG93ZXZlciB0aGV5IGZhaWwgdG8gYXVkaXQgYW5kIHNlY3VyZSB0aGVpciB3ZWIgYXBwbGljYXRpb25zLiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaGVzZSBhcHBsaWNhdGlvbnMgaGF2ZSBhY2Nlc3MgdG8gc2Vuc2l0aXZlIGRhdGEgYW5kICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZSBhIGhhY2tlcidzIHByaW1lIHRhcmdldCwmcXVvdDsgc2FpZCBOaWNrIEdhbGVhLCAgICAgICAgICAgICAgICAgICAgICAgICAgICBDRU8gb2YgQWN1bmV0aXguICZxdW90O0F1ZGl0aW5nIG9uZSdzIHdlYiBhcHBzIHNob3VsZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBiZSB0aGUgbnVtYmVyIG9uZSBzZWN1cml0eSBjb25jZXJuLiZxdW90OzwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlRoZSBuZWVkIGZvciBhbiBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHZ1bG5lcmFiaWxpdHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Nhbm5lcjwvc3Ryb25nPjxiciAvPiAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hbnVhbGx5IGF1ZGl0aW5nIGEgd2ViIGFwcGxpY2F0aW9uIGZvciB2dWxuZXJhYmlsaXRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG8gU1FMIGluamVjdGlvbiwgY3Jvc3Mgc2l0ZSBzY3JpcHRpbmcgYW5kIG90aGVyIHdlYiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRhY2tzIGlzIHZpcnR1YWxseSBpbXBvc3NpYmxlLiBXaXRoIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNjYW5uZXIgdGhlIHByb2Nlc3Mgb2YgYXVkaXRpbmcgd2ViIGFwcGxpY2F0aW9ucyBzdWNoICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHNob3BwaW5nIGNhcnRzIGFuZCBmb3JtcywgY2FuIGJlIGVhc2lseSBhdXRvbWF0ZWQuICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdoYXQncyBtb3JlLCB0aGUgc2VjdXJpdHkgY2hlY2tzIGNhbiBlYXNpbHkgYmUgcmUtbGF1bmNoZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGVhY2ggYXBwbGljYXRpb24gdXBkYXRlLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPkhvdyBBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIHdvcmtzPC9zdHJvbmc
+  Context: Fjay48L3A+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+**JnF1b3Q7Q29tcGFuaWVzIGhhdmUgaW1wbGVtZW50ZWQgbmV0d29yay1sZXZlbCBzZWN1cml0eSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgaG93ZXZlciB0aGV5IGZhaWwgdG8gYXVkaXQgYW5kIHNlY3VyZSB0aGVpciB3ZWIgYXBwbGljYXRpb25zLiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaGVzZSBhcHBsaWNhdGlvbnMgaGF2ZSBhY2Nlc3MgdG8gc2Vuc2l0aXZlIGRhdGEgYW5kICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyZSBhIGhhY2tlcidzIHByaW1lIHRhcmdldCwmcXVvdDsgc2FpZCBOaWNrIEdhbGVhLCAgICAgICAgICAgICAgICAgICAgICAgICAgICBDRU8gb2YgQWN1bmV0aXguICZxdW90O0F1ZGl0aW5nIG9uZSdzIHdlYiBhcHBzIHNob3VsZCAgICAgICAgICAgICAgICAgICAgICAgICAgICBiZSB0aGUgbnVtYmVyIG9uZSBzZWN1cml0eSBjb25jZXJuLiZxdW90OzwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlRoZSBuZWVkIGZvciBhbiBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHZ1bG5lcmFiaWxpdHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Nhbm5lcjwvc3Ryb25nPjxiciAvPiAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hbnVhbGx5IGF1ZGl0aW5nIGEgd2ViIGFwcGxpY2F0aW9uIGZvciB2dWxuZXJhYmlsaXRpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG8gU1FMIGluamVjdGlvbiwgY3Jvc3Mgc2l0ZSBzY3JpcHRpbmcgYW5kIG90aGVyIHdlYiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRhY2tzIGlzIHZpcnR1YWxseSBpbXBvc3NpYmxlLiBXaXRoIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNjYW5uZXIgdGhlIHByb2Nlc3Mgb2YgYXVkaXRpbmcgd2ViIGFwcGxpY2F0aW9ucyBzdWNoICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHNob3BwaW5nIGNhcnRzIGFuZCBmb3JtcywgY2FuIGJlIGVhc2lseSBhdXRvbWF0ZWQuICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdoYXQncyBtb3JlLCB0aGUgc2VjdXJpdHkgY2hlY2tzIGNhbiBlYXNpbHkgYmUgcmUtbGF1bmNoZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGVhY2ggYXBwbGljYXRpb24gdXBkYXRlLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPkhvdyBBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIHdvcmtzPC9zdHJvbmc**+PGJyIC8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1b
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #10:
+  Category: Auth Tokens
+  Matched Text: ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV1ZTIGZpcnN0IGNyYXdscyB0aGUgd2hvbGUgd2Vic2l0ZSwgYW5hbHl6ZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW4tZGVwdGggZWFjaCBmaWxlIGl0IGZpbmRzLCBhbmQgZGlzcGxheXMgdGhlIGVudGlyZSAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWJzaXRlIHN0cnVjdHVyZS4gQWZ0ZXIgdGhpcyBkaXNjb3Zlcnkgc3RhZ2UsIGl0IHBlcmZvcm1zICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuIGF1dG9tYXRpYyBhdWRpdCBmb3IgY29tbW9uIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdGllcy48L3A
+  Context: VyYWJpbGl0eSBTY2FubmVyIHdvcmtzPC9zdHJvbmc+PGJyIC8+**ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV1ZTIGZpcnN0IGNyYXdscyB0aGUgd2hvbGUgd2Vic2l0ZSwgYW5hbHl6ZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW4tZGVwdGggZWFjaCBmaWxlIGl0IGZpbmRzLCBhbmQgZGlzcGxheXMgdGhlIGVudGlyZSAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWJzaXRlIHN0cnVjdHVyZS4gQWZ0ZXIgdGhpcyBkaXNjb3Zlcnkgc3RhZ2UsIGl0IHBlcmZvcm1zICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuIGF1dG9tYXRpYyBhdWRpdCBmb3IgY29tbW9uIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdGllcy48L3A**+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+PHN0cm9uZ
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #11:
+  Category: Auth Tokens
+  Matched Text: PHN0cm9uZz5BdXRvbWF0aWNhbGx5IGRldGVjdHMgU1FMIGluamVjdGlvbiwgY3Jvc3Mgc2l0ZSAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY3JpcHRpbmcgYW5kIG90aGVyIHdlYiB2dWxuZXJhYmlsaXRpZXM8L3N0cm9uZz48YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICBTUUwgaW5qZWN0aW9uIGlzIGEgaGFja2luZyB0ZWNobmlxdWUgd2hpY2ggbW9kaWZpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgU1FMIGNvbW1hbmRzIGluIG9yZGVyIHRvIGdhaW4gYWNjZXNzIHRvIGRhdGEgaW4gdGhlICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGFiYXNlLiBDcm9zcyBzaXRlIHNjcmlwdGluZyBhdHRhY2tzIGFsbG93IGEgaGFja2VyICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvIGV4ZWN1dGUgYSBtYWxpY2lvdXMgc2NyaXB0IG9uIHlvdXIgdmlzaXRvcnMnIGJyb3dzZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgY2FuIGNoZWNrIGlmIHlvdXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2ViIGFwcGxpY2F0aW9uIGlzIHZ1bG5lcmFibGUgdG8gYm90aCBvZiB0aGVzZSBhdHRhY2tzLiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb3JlIGluZm9ybWF0aW9uIGFib3V0IGNyb3NzIHNpdGUgc2NyaXB0aW5nICZhbXA7IFNRTCAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmplY3Rpb24gYXQgb3VyIHdlYnNpdGUgc2VjdXJpdHkgaW5mbyBwYWdlLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPkFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgYWxzbyBjaGVja3MgZm9yICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBmb2xsb3dpbmcgd2ViIGF0dGFja3M6PC9zdHJvbmc
+  Context: llcy48L3A+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+**PHN0cm9uZz5BdXRvbWF0aWNhbGx5IGRldGVjdHMgU1FMIGluamVjdGlvbiwgY3Jvc3Mgc2l0ZSAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY3JpcHRpbmcgYW5kIG90aGVyIHdlYiB2dWxuZXJhYmlsaXRpZXM8L3N0cm9uZz48YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICBTUUwgaW5qZWN0aW9uIGlzIGEgaGFja2luZyB0ZWNobmlxdWUgd2hpY2ggbW9kaWZpZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgU1FMIGNvbW1hbmRzIGluIG9yZGVyIHRvIGdhaW4gYWNjZXNzIHRvIGRhdGEgaW4gdGhlICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGFiYXNlLiBDcm9zcyBzaXRlIHNjcmlwdGluZyBhdHRhY2tzIGFsbG93IGEgaGFja2VyICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvIGV4ZWN1dGUgYSBtYWxpY2lvdXMgc2NyaXB0IG9uIHlvdXIgdmlzaXRvcnMnIGJyb3dzZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgY2FuIGNoZWNrIGlmIHlvdXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2ViIGFwcGxpY2F0aW9uIGlzIHZ1bG5lcmFibGUgdG8gYm90aCBvZiB0aGVzZSBhdHRhY2tzLiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb3JlIGluZm9ybWF0aW9uIGFib3V0IGNyb3NzIHNpdGUgc2NyaXB0aW5nICZhbXA7IFNRTCAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmplY3Rpb24gYXQgb3VyIHdlYnNpdGUgc2VjdXJpdHkgaW5mbyBwYWdlLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPkFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgYWxzbyBjaGVja3MgZm9yICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBmb2xsb3dpbmcgd2ViIGF0dGFja3M6PC9zdHJvbmc**+PC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bD4gP
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #12:
+  Category: Auth Tokens
+  Matched Text: PC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bD4gPGxpPkNSTEYgaW5qZWN0aW9uIGF0dGFja3M8YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPjxsaT5Db2RlIGV4ZWN1dGlvbiBhdHRhY2tzPGJyIC8
+  Context: AgIHRoZSBmb2xsb3dpbmcgd2ViIGF0dGFja3M6PC9zdHJvbmc+**PC9wPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bD4gPGxpPkNSTEYgaW5qZWN0aW9uIGF0dGFja3M8YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPjxsaT5Db2RlIGV4ZWN1dGlvbiBhdHRhY2tzPGJyIC8**+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT48bGk+R
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #13:
+  Category: Auth Tokens
+  Matched Text: RmlsZSBpbmNsdXNpb24gYXR0YWNrczxiciAvPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk
+  Context: 8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT48bGk+**RmlsZSBpbmNsdXNpb24gYXR0YWNrczxiciAvPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk**+PGxpPiBJbnB1dCB2YWxpZGF0aW9uIGF0dGFja3M8YnIgLz4gI
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #14:
+  Category: Auth Tokens
+  Matched Text: PGxpPiBJbnB1dCB2YWxpZGF0aW9uIGF0dGFja3M8YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPjxsaT5BdXRoZW50aWNhdGlvbiBhdHRhY2tzLjwvbGk
+  Context: xiciAvPiAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+**PGxpPiBJbnB1dCB2YWxpZGF0aW9uIGF0dGFja3M8YnIgLz4gICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPjxsaT5BdXRoZW50aWNhdGlvbiBhdHRhY2tzLjwvbGk**+IDwvdWw+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+P
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #15:
+  Category: Auth Tokens
+  Matched Text: PHN0cm9uZz5BZHZhbmNlZCBwZW5ldHJhdGlvbiB0ZXN0aW5nIHRvb2xzPC9zdHJvbmc
+  Context: k+IDwvdWw+ICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+**PHN0cm9uZz5BZHZhbmNlZCBwZW5ldHJhdGlvbiB0ZXN0aW5nIHRvb2xzPC9zdHJvbmc**+PGJyIC8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1b
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #16:
+  Category: Auth Tokens
+  Matched Text: ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV1ZTIGFsc28gaW5jbHVkZXMgdG9vbHMgc3VjaCBhcyBhbiBIVFRQIGVkaXRvciAgICAgICAgICAgICAgICAgICAgICAgICAgICAmYW1wOyBIVFRQIHNuaWZmZXIgdG8gYWxsb3cgY3VzdG9taXphdGlvbiBvZiB3ZWIgdnVsbmVyYWJpbGl0eSAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGVja3MuIFVzaW5nIHRoZSBWdWxuZXJhYmlsaXR5IGVkaXRvciwgbmV3IGF0dGFja3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuIGVhc2lseSBiZSBjcmVhdGVkLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlByaWNpbmcgJmFtcDsgYXZhaWxhYmlsaXR5PC9zdHJvbmc
+  Context: 5ldHJhdGlvbiB0ZXN0aW5nIHRvb2xzPC9zdHJvbmc+PGJyIC8+**ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV1ZTIGFsc28gaW5jbHVkZXMgdG9vbHMgc3VjaCBhcyBhbiBIVFRQIGVkaXRvciAgICAgICAgICAgICAgICAgICAgICAgICAgICAmYW1wOyBIVFRQIHNuaWZmZXIgdG8gYWxsb3cgY3VzdG9taXphdGlvbiBvZiB3ZWIgdnVsbmVyYWJpbGl0eSAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGVja3MuIFVzaW5nIHRoZSBWdWxuZXJhYmlsaXR5IGVkaXRvciwgbmV3IGF0dGFja3MgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuIGVhc2lseSBiZSBjcmVhdGVkLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlByaWNpbmcgJmFtcDsgYXZhaWxhYmlsaXR5PC9zdHJvbmc**+PGJyIC8+ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1b
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #17:
+  Category: Auth Tokens
+  Matched Text: ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV1ZTIGlzIGF2YWlsYWJsZSBhcyBhbiBlbnRlcnByaXNlIG9yIGFzIGEgY29uc3VsdGFudCAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uLiBBIHN1YnNjcmlwdGlvbiBiYXNlZCBsaWNlbnNlIGNhbiBiZSBwdXJjaGFzZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGFzIGxpdHRsZSBhcyAkMzk1LCB3aGVyZWFzIGEgcGVycGV0dWFsIGxpY2Vuc2Ugc3RhcnRzICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0ICQyOTk1LiBGb3IgbW9yZSBpbmZvcm1hdGlvbiB2aXNpdCBvdXIgcHJpY2luZyBwYWdlLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPkFib3V0IEFjdW5ldGl4PC9zdHJvbmc
+  Context: NpbmcgJmFtcDsgYXZhaWxhYmlsaXR5PC9zdHJvbmc+PGJyIC8+**ICAgICAgICAgICAgICAgICAgICAgICAgICAgQWN1bmV0aXggV1ZTIGlzIGF2YWlsYWJsZSBhcyBhbiBlbnRlcnByaXNlIG9yIGFzIGEgY29uc3VsdGFudCAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uLiBBIHN1YnNjcmlwdGlvbiBiYXNlZCBsaWNlbnNlIGNhbiBiZSBwdXJjaGFzZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGFzIGxpdHRsZSBhcyAkMzk1LCB3aGVyZWFzIGEgcGVycGV0dWFsIGxpY2Vuc2Ugc3RhcnRzICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0ICQyOTk1LiBGb3IgbW9yZSBpbmZvcm1hdGlvbiB2aXNpdCBvdXIgcHJpY2luZyBwYWdlLjwvcD4gICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPkFib3V0IEFjdW5ldGl4PC9zdHJvbmc**+PC9wPiAgICAgPHA+VXNlci1mcmllbmRseSBhbmQgY29tcGV0a
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #18:
+  Category: Auth Tokens
+  Matched Text: VXNlci1mcmllbmRseSBhbmQgY29tcGV0aXRpdmVseSBwcmljZWQsIEFjdW5ldGl4IGxlYWRzIHRoZSBtYXJrZXQgaW4gYXV0b21hdGljIHdlYiBzZWN1cml0eSB0ZXN0aW5nIHRlY2hub2xvZ3kuIEl0cyBpbmR1c3RyeS1sZWFkaW5nIGNyYXdsZXIgZnVsbHkgc3VwcG9ydHMgSFRNTDUsIEphdmFTY3JpcHQsIGFuZCBBSkFYLWhlYXZ5IHdlYnNpdGVzLCBlbmFibGluZyB0aGUgYXVkaXRpbmcgb2YgY29tcGxleCwgYXV0aGVudGljYXRlZCBhcHBsaWNhdGlvbnMuIEFjdW5ldGl4IHByb3ZpZGVzIHRoZSBvbmx5IHRlY2hub2xvZ3kgb24gdGhlIG1hcmtldCB0aGF0IGNhbiBhdXRvbWF0aWNhbGx5IGRldGVjdCBvdXQtb2YtYmFuZCB2dWxuZXJhYmlsaXRpZXMgYW5kIGlzIGF2YWlsYWJsZSBib3RoIGFzIGFuIG9ubGluZSBhbmQgb24tcHJlbWlzZXMgc29sdXRpb24uIEFjdW5ldGl4IGFsc28gaW5jbHVkZXMgaW50ZWdyYXRlZCB2dWxuZXJhYmlsaXR5IG1hbmFnZW1lbnQgZmVhdHVyZXMgdG8gZXh0ZW5kIHRoZSBlbnRlcnByaXNlJnJzcXVvO3MgYWJpbGl0eSB0byBjb21wcmVoZW5zaXZlbHkgbWFuYWdlLCBwcmlvcml0aXplLCBhbmQgY29udHJvbCB2dWxuZXJhYmlsaXR5IHRocmVhdHMgJm5kYXNoOyBvcmRlcmVkIGJ5IGJ1c2luZXNzIGNyaXRpY2FsaXR5LjwvcD5kAgkPDxYCHgtOYXZpZ2F0ZVVybAUSQ29tbWVudHMuYXNweD9pZD0yZGQCCw8WAh4Dc3JjBQxhZHMvZGVmLmh0bWxkZCqQXr9Bo
+  Context: 5nPkFib3V0IEFjdW5ldGl4PC9zdHJvbmc+PC9wPiAgICAgPHA+**VXNlci1mcmllbmRseSBhbmQgY29tcGV0aXRpdmVseSBwcmljZWQsIEFjdW5ldGl4IGxlYWRzIHRoZSBtYXJrZXQgaW4gYXV0b21hdGljIHdlYiBzZWN1cml0eSB0ZXN0aW5nIHRlY2hub2xvZ3kuIEl0cyBpbmR1c3RyeS1sZWFkaW5nIGNyYXdsZXIgZnVsbHkgc3VwcG9ydHMgSFRNTDUsIEphdmFTY3JpcHQsIGFuZCBBSkFYLWhlYXZ5IHdlYnNpdGVzLCBlbmFibGluZyB0aGUgYXVkaXRpbmcgb2YgY29tcGxleCwgYXV0aGVudGljYXRlZCBhcHBsaWNhdGlvbnMuIEFjdW5ldGl4IHByb3ZpZGVzIHRoZSBvbmx5IHRlY2hub2xvZ3kgb24gdGhlIG1hcmtldCB0aGF0IGNhbiBhdXRvbWF0aWNhbGx5IGRldGVjdCBvdXQtb2YtYmFuZCB2dWxuZXJhYmlsaXRpZXMgYW5kIGlzIGF2YWlsYWJsZSBib3RoIGFzIGFuIG9ubGluZSBhbmQgb24tcHJlbWlzZXMgc29sdXRpb24uIEFjdW5ldGl4IGFsc28gaW5jbHVkZXMgaW50ZWdyYXRlZCB2dWxuZXJhYmlsaXR5IG1hbmFnZW1lbnQgZmVhdHVyZXMgdG8gZXh0ZW5kIHRoZSBlbnRlcnByaXNlJnJzcXVvO3MgYWJpbGl0eSB0byBjb21wcmVoZW5zaXZlbHkgbWFuYWdlLCBwcmlvcml0aXplLCBhbmQgY29udHJvbCB2dWxuZXJhYmlsaXR5IHRocmVhdHMgJm5kYXNoOyBvcmRlcmVkIGJ5IGJ1c2luZXNzIGNyaXRpY2FsaXR5LjwvcD5kAgkPDxYCHgtOYXZpZ2F0ZVVybAUSQ29tbWVudHMuYXNweD9pZD0yZGQCCw8WAh4Dc3JjBQxhZHMvZGVmLmh0bWxkZCqQXr9Bo**+fii5vVAAhGyfGRVNk1" />
+</div>
+
+<script type="t
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #19:
+  Category: Auth Tokens
+  Matched Text: AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCnEHy4lYbV3lM6nVFlnxelgVqK
+  Context: RutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+**AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCnEHy4lYbV3lM6nVFlnxelgVqK**+B" />
+</div>
+			
+<TABLE id="Table1" cellSpacin
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #20:
+  Category: Twilio API Keys
+  Matched Text: aCBhcyBjdXN0b21lciBpbmZvcm1hdGlvbi
+  Context: AgYSB3ZWVrIGFuZCBjb250cm9sIHZhbHVhYmxlIGRhdGEgc3Vj**aCBhcyBjdXN0b21lciBpbmZvcm1hdGlvbi**wgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnNhY3Rp
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #21:
+  Category: Twilio API Keys
+  Matched Text: aCBoYXMgdG8gcmVtYWluIG9wZW4uICAgIC
+  Context: AgICAgICAgYXJlIGxhdW5jaGVkIG9uIHBvcnQgODAgLSB3aGlj**aCBoYXMgdG8gcmVtYWluIG9wZW4uICAgIC**AgICAgICAgICAgICAgICAgICAgICAgIEluIGFkZGl0aW9uLCB3
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #22:
+  Category: Twilio API Keys
+  Matched Text: aCBmaWxlIGl0IGZpbmRzLCBhbmQgZGlzcG
+  Context: AgICAgICAgICAgICAgICAgICAgICAgICAgaW4tZGVwdGggZWFj**aCBmaWxlIGl0IGZpbmRzLCBhbmQgZGlzcG**xheXMgdGhlIGVudGlyZSAgICAgICAgICAgICAgICAgICAgICAg
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #23:
+  Category: Twilio API Keys
+  Matched Text: aCBvZiB0aGVzZSBhdHRhY2tzLiAgICAgIC
+  Context: Agd2ViIGFwcGxpY2F0aW9uIGlzIHZ1bG5lcmFibGUgdG8gYm90**aCBvZiB0aGVzZSBhdHRhY2tzLiAgICAgIC**AgICAgICAgICAgICAgICAgICAgICBNb3JlIGluZm9ybWF0aW9u
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #24:
+  Category: Twilio API Keys
+  Matched Text: aCBhcyBhbiBIVFRQIGVkaXRvciAgICAgIC
+  Context: AgQWN1bmV0aXggV1ZTIGFsc28gaW5jbHVkZXMgdG9vbHMgc3Vj**aCBhcyBhbiBIVFRQIGVkaXRvciAgICAgIC**AgICAgICAgICAgICAgICAgICAgICAmYW1wOyBIVFRQIHNuaWZm
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+------------------------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | &copy;2019
+  Acunetix Ltd 
+</di
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+
+URL: http://testphp.vulnweb.com?pp=12
+-------------------------------------
+
+Finding #1:
+  Category: Email Addresses
+  Matched Text: wvs@acunetix.com
+  Context: privacy.php">Privacy Policy</a> | <a href="mailto:**wvs@acunetix.com**">Contact Us</a> | <a href="/Mod_Rewrite_Shop/">Sh
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+Finding #2:
+  Category: Phone Numbers
+  Matched Text: 444553540000
+  Context:    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-**444553540000**" codebase="http://download.macromedia.com/pub/sho
+  AI Analysis:
+    Classification: Unknown
+    Impact: Unknown
+    Severity: Unknown
+    Recommendation: Manual review required
+
+
+==================================================
+

